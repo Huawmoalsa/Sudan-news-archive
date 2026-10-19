@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0",
+  "policy": {
+    "tier_A": "مصادر أولية ومؤسسات مرجعية؛ لا يعني الانتماء للفئة تأكيد كل ادعاء",
+    "tier_B": "مصادر أممية وإنسانية للسياق والتأكيد المتخصص",
+    "tier_C": "مصادر محلية وإشارات مبكرة؛ لا تؤكد منفردة",
+    "tier_D": "محتوى مستبعد من المؤشرات الكمية الأساسية، مع الاحتفاظ به للتدقيق عند الحاجة"
+  },
+  "sources": [
+    {
+      "id": "sudan_government",
+      "name": "الموقع الرسمي لحكومة السودان",
+      "tier": "A",
+      "type": "official_government",
+      "url": "https://sudan.gov.sd/",
+      "feed_url": null,
+      "status": "website_found_feed_unverified"
+    },
+    {
+      "id": "who_emro_sudan",
+      "name": "منظمة الصحة العالمية - إقليم شرق المتوسط، أخبار السودان",
+      "tier": "A",
+      "type": "international_health_authority",
+      "url": "https://www.emro.who.int/sdn/sudan-news/",
+      "feed_url": null,
+      "status": "website_found_feed_unverified"
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "tier": "A",
+      "type": "international_news_agency",
+      "url": "https://www.reuters.com/",
+      "feed_url": null,
+      "status": "feed_unverified"
+    },
+    {
+      "id": "ap",
+      "name": "Associated Press",
+      "tier": "A",
+      "type": "international_news_agency",
+      "url": "https://apnews.com/",
+      "feed_url": null,
+      "status": "feed_unverified"
+    },
+    {
+      "id": "unicef_sudan",
+      "name": "UNICEF Sudan",
+      "tier": "B",
+      "type": "un_agency",
+      "url": "https://www.unicef.org/sudan/press-centre",
+      "feed_url": null,
+      "status": "website_found_feed_unverified"
+    },
+    {
+      "id": "wfp",
+      "name": "World Food Programme",
+      "tier": "B",
+      "type": "un_agency",
+      "url": "https://www.wfp.org/",
+      "feed_url": null,
+      "status": "feed_unverified"
+    },
+    {
+      "id": "ocha_sudan",
+      "name": "OCHA Sudan",
+      "tier": "B",
+      "type": "humanitarian_coordination",
+      "url": "https://www.unocha.org/sudan",
+      "feed_url": null,
+      "status": "feed_unverified"
+    },
+    {
+      "id": "sudan_tribune",
+      "name": "Sudan Tribune",
+      "tier": "C",
+      "type": "local_news",
+      "url": "https://sudantribune.com/",
+      "feed_url": null,
+      "status": "feed_unverified"
+    },
+    {
+      "id": "sudanile",
+      "name": "Sudanile",
+      "tier": "C",
+      "type": "local_news",
+      "url": "https://sudanile.com/",
+      "feed_url": null,
+      "status": "feed_unverified"
+    },
+    {
+      "id": "sudan_doctors_network",
+      "name": "شبكة أطباء السودان",
+      "tier": "C",
+      "type": "local_medical_network",
+      "url": null,
+      "feed_url": null,
+      "status": "official_channel_unverified"
+    }
+  ],
+  "excluded_content_rules": [
+    "unverified_personal_social_accounts",
+    "unsupported_rumors",
+    "repeated_disinformation_sources"
+  ]
+}
