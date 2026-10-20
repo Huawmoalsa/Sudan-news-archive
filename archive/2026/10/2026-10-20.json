@@ -1,9 +1,10 @@
 {
   "date_utc": "2026-10-20",
-  "collected_at_utc": "2026-10-20T05:47:35.207019+00:00",
+  "collected_at_utc": "2026-10-20T12:34:53.043135+00:00",
   "source_count": 4,
-  "item_count": 100,
+  "item_count": 136,
   "failed_feeds": [],
+  "freshness_rule": "recent means 0-7 days old",
   "items": [
     {
       "id": "11186f3a1a89634bd176f1f336c524f74ff6122dd23fd35c77f15c989bb3fc38",
@@ -12,7 +13,12 @@
       "published_at": "2026-10-11T21:12:44+00:00",
       "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 8
     },
     {
       "id": "1de9fb5cbea162738776ea1c1277865117723e228e80c80c7c4fe7affd13ab49",
@@ -21,7 +27,12 @@
       "published_at": "2026-10-10T14:49:32+00:00",
       "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 9
     },
     {
       "id": "3c7f54b8b3b43e60da20975e19a255efa8563553f4f8871d7f7dc0e8cfeeddec",
@@ -30,7 +41,12 @@
       "published_at": "2026-09-08T15:06:56+00:00",
       "summary": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 41
     },
     {
       "id": "b1056b390bd72b4cbf67a4fd1c208854f0f895523e25b9ae73dad5ba0d935e30",
@@ -39,7 +55,12 @@
       "published_at": "2026-09-02T05:15:46+00:00",
       "summary": "After enduring torture and imprisonment in Sudan, Ahmed Bakheet is using his skills in the North East.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 48
     },
     {
       "id": "7156b362bfedec0335de241d1f2acf1da814c55e081bbe5afe4c1b1bda65bd76",
@@ -48,7 +69,12 @@
       "published_at": "2026-08-28T14:18:53+00:00",
       "summary": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 52
     },
     {
       "id": "b936e0cee92d6932c202f896ff01fd35446b98bb714f9435c11505f296129a2e",
@@ -57,7 +83,12 @@
       "published_at": "2026-08-25T12:45:47+00:00",
       "summary": "A wider arms embargo would require a UN Security Council vote - and Russia and China oppose the move.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 55
     },
     {
       "id": "420e8525bbe6765e812b65f259841b6aca884b3a6ffc49ac0c39b38073af1991",
@@ -66,7 +97,12 @@
       "published_at": "2026-08-22T06:15:14+00:00",
       "summary": "Yusuif Ahmed, 16, will study at the famed school from September after securing a scholarship.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 59
     },
     {
       "id": "c92f76e88e463eef4ab4849b450504a49b43a001433622192da632158706509f",
@@ -75,7 +111,12 @@
       "published_at": "2026-08-21T11:39:36+00:00",
       "summary": "Nasser Hamid adds maths to his English and refereeing qualifications and hopes to become an engineer.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 60
     },
     {
       "id": "67c7bf9cbc10c4aebadfe5784aa5787e347157f0dec3c059724dc02350768e6c",
@@ -84,7 +125,12 @@
       "published_at": "2026-08-14T05:11:38+00:00",
       "summary": "A Slough-based charity has been given a Lions Club International Award for its humanitarian efforts.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 67
     },
     {
       "id": "48a9109565d37936ce0d53b2208f5813fba0b0f833fac6e9350b9497c3a09147",
@@ -93,7 +139,12 @@
       "published_at": "2026-08-07T00:26:52+00:00",
       "summary": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 74
     },
     {
       "id": "0bfab4ef953362f80d6d5d9f33af3e074631732b1cf975c660c792347f72340d",
@@ -102,7 +153,12 @@
       "published_at": "2026-08-03T10:29:24+00:00",
       "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 78
     },
     {
       "id": "898bcfba46a31b1761c710e25934d44fd34bd8110eb9278cd66d6d64ecd9c594",
@@ -111,7 +167,12 @@
       "published_at": "2026-07-29T17:17:12+00:00",
       "summary": "Thousands are sheltering in Sudan's el-Obeid as the country's paramilitary RSF forces advance.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 82
     },
     {
       "id": "10bc667355d7e8b9b02ed00f21e02b15a6efdb6548a43ef92397aa20847889dc",
@@ -120,7 +181,12 @@
       "published_at": "2026-07-29T05:01:46+00:00",
       "summary": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 83
     },
     {
       "id": "9170b0d97648221bc0a34141754b264a6949aa4c3c565e53cc5b8011ef4ff771",
@@ -129,7 +195,12 @@
       "published_at": "2026-07-21T00:00:00+00:00",
       "summary": "How does gold play a role in conflict?",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 91
     },
     {
       "id": "5c8689ed0aa7124681db81d4c40b1b20b81d87ef0fa79b71ad0f090a9223db1b",
@@ -138,7 +209,12 @@
       "published_at": "2026-07-14T08:32:49+00:00",
       "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 98
     },
     {
       "id": "6bec0ccfb01b479ed4bb0601c96d759c571943666ec293f871e9dbe65b8f0fe8",
@@ -147,7 +223,12 @@
       "published_at": "2026-07-13T12:02:19+00:00",
       "summary": "Mohamed Hamdan Dagalo was convicted in absentia along with 15 RSF commanders and allies.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 99
     },
     {
       "id": "c2d7d518d98e1ae3692ec0e6acbba1ab126e5833188bd7347f26d88d78ce699f",
@@ -156,7 +237,12 @@
       "published_at": "2026-07-09T08:49:45+00:00",
       "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 103
     },
     {
       "id": "eb9f351488ab455ecba0f611e94a84942b2af75a649dcef98f22e3589609a705",
@@ -165,7 +251,12 @@
       "published_at": "2026-07-07T23:32:04+00:00",
       "summary": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 104
     },
     {
       "id": "c84cd0abfe7fdddcfab56036f1d062cd8cd8151e56ece18becbae1b7808cc31a",
@@ -174,7 +265,12 @@
       "published_at": "2026-07-01T06:29:31+00:00",
       "summary": "The Amnesty report adds to evidence of atrocities in el-Fasher, which the UN says bore the hallmarks of genocide.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 111
     },
     {
       "id": "789c6ef927a7f2bc56778cde1be78271737f2e2a2476bcb0b367cbcbd6778b2d",
@@ -183,7 +279,12 @@
       "published_at": "2026-06-23T18:50:10+00:00",
       "summary": "The scale and brutality of the sexual attacks is unprecedented and aimed at terrorising communities, the UN says.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 118
     },
     {
       "id": "7fa50af47f8bd390d3dd4de834b5aca65bed87304424d6e810633d3d7e30bc0b",
@@ -192,7 +293,12 @@
       "published_at": "2026-06-15T16:32:48+00:00",
       "summary": "Some victims said they chose not to speak out because they feared staff would cut off access to aid.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 126
     },
     {
       "id": "061c62c5290361fd6c5a79a606d148a192404c1e09aa59e3aff98bfb94336420",
@@ -201,7 +307,12 @@
       "published_at": "2026-06-11T15:57:04+00:00",
       "summary": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 130
     },
     {
       "id": "cce61363fe7dcbe0ae762616079a40787e27354345a5c1f09aceebe4a2587f3e",
@@ -210,7 +321,12 @@
       "published_at": "2026-05-27T18:50:50+00:00",
       "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 145
     },
     {
       "id": "d49b48b563534ee0200175ec3012b025ad53704fd66343933106aaa7590a779b",
@@ -219,367 +335,572 @@
       "published_at": "2026-05-26T23:30:00+00:00",
       "summary": "Former Sudanese leader Aisha Musa on war, refugees and the collapse of democracy.",
       "source_feed": "https://feeds.bbci.co.uk/news/topics/cq23pdgvgm8t/rss.xml",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 146
     },
     {
       "id": "6fdbd0c0509416d947c6f35fef9c88a83329f4498ec0e1b4cc97e4f07f5206ba",
       "title": "Help Keep Radio Dabanga on Air",
       "url": "https://www.dabangasudan.org/en/all-news/article/help-keep-radio-dabanga-on-the-air",
       "published_at": "2026-10-19T15:25:15+00:00",
-      "summary": "<div><img width=\"250\" height=\"300\" src=\"https://www.dabangasudan.org/wp-content/uploads/2026/09/RD-Donate-Graphic-Crowdfunding-250x300.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2026/09/RD-Donate-Graphic-Crowdfunding-250x300.jpg 250w, https://www.dabangasudan.org/wp-content/uploads/2026/09/RD-Donate-Graphic-Crowdfunding-125x150.jpg 125w, https://www.dabangasudan.org/wp-content/uploads/2026/09/RD-Donate-Graphic-Crowdfunding-144x173.jpg 144w, https://www.dabangasudan.org/wp-content/uploads/2026/09/RD-Donate-Graphic-Crowdfunding.jpg 567w\" sizes=\"(max-width: 250px) 100vw, 250px\" /></div> <p>We’re launching our campaign to #KeepDabangaOnAir on the International Day for Universal Access to Information!...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/help-keep-radio-dabanga-on-the-air\">Help Keep Radio Dabanga on Air</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "We’re launching our campaign to #KeepDabangaOnAir on the International Day for Universal Access to Information!... The post Help Keep Radio Dabanga on Air appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
     },
     {
       "id": "6cc6bf42f3afcae91407158363b8bb9513ef421ebc79d598cd8872b92ec2ffc1",
       "title": "Drone strikes kill civilians in Darfur and Kordofan as attacks target eastern Sudan",
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-strikes-kill-civilians-in-darfur-and-kordofan-as-attacks-target-eastern-sudan",
       "published_at": "2026-10-18T18:03:52+00:00",
-      "summary": "<div><img width=\"300\" height=\"100\" src=\"https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan-300x100.webp\" class=\"attachment-medium size-medium wp-post-image\" alt=\"هجوم بمسيرة- أنتوني هيدلي / المفوضية السامية لحقوق الإنسان\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan-300x100.webp 300w, https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan-1024x341.webp 1024w, https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan-150x50.webp 150w, https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan-768x256.webp 768w, https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan-430x143.webp 430w, https://www.dabangasudan.org/wp-content/uploads/2026/04/2026-03-24-sudan.webp 1240w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>Drone attacks killed civilians in West Darfur and West Kordofan on Saturday, including women, while...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/drone-strikes-kill-civilians-in-darfur-and-kordofan-as-attacks-target-eastern-sudan\">Drone strikes kill civilians in Darfur and Kordofan as attacks target eastern Sudan</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "Drone attacks killed civilians in West Darfur and West Kordofan on Saturday, including women, while... The post Drone strikes kill civilians in Darfur and Kordofan as attacks target eastern Sudan appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 1
     },
     {
       "id": "ecb644808cf1bb2c7baf4ec9067117289873351324c9f12039f54f760624d040",
       "title": "Op-ed: Performing refugeehood – How will Sudanese navigate Egypt’s incoming asylum system?",
       "url": "https://www.dabangasudan.org/en/all-news/article/op-ed-performing-refugeehood-how-will-sudanese-navigate-egypts-incoming-asylum-system",
       "published_at": "2026-10-18T16:20:02+00:00",
-      "summary": "<div><img width=\"300\" height=\"218\" src=\"https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-300x218.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-300x218.jpg 300w, https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-1024x745.jpg 1024w, https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-150x109.jpg 150w, https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-768x559.jpg 768w, https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-1536x1117.jpg 1536w, https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-2048x1490.jpg 2048w, https://www.dabangasudan.org/wp-content/uploads/2023/07/Sudanese-refugees-Egypt-asking-for-donations-Cartoon-by-Omar-Dafallah-RD-238x173.jpg 238w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>By Joseph A. Owens for Radio Dabanga Egypt has slowly whittled down its commitments to...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/op-ed-performing-refugeehood-how-will-sudanese-navigate-egypts-incoming-asylum-system\">Op-ed: Performing refugeehood &#8211; How will Sudanese navigate Egypt’s incoming asylum system?</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "By Joseph A. Owens for Radio Dabanga Egypt has slowly whittled down its commitments to... The post Op-ed: Performing refugeehood – How will Sudanese navigate Egypt’s incoming asylum system? appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 1
     },
     {
       "id": "f2185490897ec0ad2ed986e0b8dfb67409908b30f3d60121cc5445ab859d6bde",
       "title": "Blue Nile initiative condemns arbitrary arrests targeting civilians over alleged family ties",
       "url": "https://www.dabangasudan.org/en/all-news/article/blue-nile-initiative-condemns-arbitrary-arrests-targeting-civilians-over-alleged-family-ties",
       "published_at": "2026-10-16T17:36:14+00:00",
-      "summary": "<div><img width=\"300\" height=\"158\" src=\"https://www.dabangasudan.org/wp-content/uploads/2023/01/Prison-generic-File-photo-300x158.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2023/01/Prison-generic-File-photo-300x158.jpeg 300w, https://www.dabangasudan.org/wp-content/uploads/2023/01/Prison-generic-File-photo-150x79.jpeg 150w, https://www.dabangasudan.org/wp-content/uploads/2023/01/Prison-generic-File-photo-328x173.jpeg 328w, https://www.dabangasudan.org/wp-content/uploads/2023/01/Prison-generic-File-photo.jpeg 720w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>The Civil Society Initiative in the Blue Nile region has condemned arbitrary arrests targeting civilians...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/blue-nile-initiative-condemns-arbitrary-arrests-targeting-civilians-over-alleged-family-ties\">Blue Nile initiative condemns arbitrary arrests targeting civilians over alleged family ties</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "The Civil Society Initiative in the Blue Nile region has condemned arbitrary arrests targeting civilians... The post Blue Nile initiative condemns arbitrary arrests targeting civilians over alleged family ties appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 3
     },
     {
       "id": "52327a0eebec19a3622426bcc917bcdc51b07e3fd70a0c2351b9506ca3cc45f0",
       "title": "Red Cross maintains ‘confidential dialogue’ with Sudan conflict parties to visit detainees",
       "url": "https://www.dabangasudan.org/en/all-news/article/red-cross-maintains-confidential-dialogue-with-sudan-conflict-parties-to-visit-detainees",
       "published_at": "2026-10-16T17:25:01+00:00",
-      "summary": "<div><img width=\"300\" height=\"108\" src=\"https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-300x108.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-300x108.jpg 300w, https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-1024x368.jpg 1024w, https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-150x54.jpg 150w, https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-768x276.jpg 768w, https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-1536x552.jpg 1536w, https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag-430x155.jpg 430w, https://www.dabangasudan.org/wp-content/uploads/2025/07/ICRC-flag.jpg 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>Report by Suleiman Siri for Radio Dabanga The International Committee of the Red Cross says limited access...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/red-cross-maintains-confidential-dialogue-with-sudan-conflict-parties-to-visit-detainees\">Red Cross maintains ‘confidential dialogue’ with Sudan conflict parties to visit detainees</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "Report by Suleiman Siri for Radio Dabanga The International Committee of the Red Cross says limited access... The post Red Cross maintains ‘confidential dialogue’ with Sudan conflict parties to visit detainees appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 3
     },
     {
       "id": "3d240bb6e60d46e9ebd880326d5be200eb73ea957930961fcf5a7d82995d0317",
       "title": "UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership",
       "url": "https://www.dabangasudan.org/en/all-news/article/un-and-switzerland-plan-sudan-peace-talks-as-us-lawmaker-proposes-resource-partnership",
       "published_at": "2026-10-15T15:24:18+00:00",
-      "summary": "<div><img width=\"240\" height=\"300\" src=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress-240x300.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress-240x300.jpg 240w, https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress-819x1024.jpg 819w, https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress-120x150.jpg 120w, https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress-768x960.jpg 768w, https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress-138x173.jpg 138w, https://www.dabangasudan.org/wp-content/uploads/2026/10/Jim_Baird_119th_Congress.jpg 1000w\" sizes=\"auto, (max-width: 240px) 100vw, 240px\" /></div> <p>The UN and Switzerland are preparing a sixth meeting to coordinate peace efforts in Sudan,...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/un-and-switzerland-plan-sudan-peace-talks-as-us-lawmaker-proposes-resource-partnership\">UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "The UN and Switzerland are preparing a sixth meeting to coordinate peace efforts in Sudan,... The post UN and Switzerland plan Sudan peace talks as US lawmaker proposes resource partnership appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 4
     },
     {
       "id": "47dd875424c60cad2a8e15bada8ca91976088dc2d9927968534344933506cb3d",
       "title": "Drone attack kills two in North Darfur as Red Crescent volunteer killed in Blue Nile",
       "url": "https://www.dabangasudan.org/en/all-news/article/drone-attack-kills-two-in-north-darfur-as-red-crescent-volunteer-killed-in-blue-nile",
       "published_at": "2026-10-15T15:18:06+00:00",
-      "summary": "<div><img width=\"300\" height=\"169\" src=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-300x169.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"أسلحة جرى\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-300x169.jpg 300w, https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-1024x576.jpg 1024w, https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-150x84.jpg 150w, https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-768x432.jpg 768w, https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-1536x864.jpg 1536w, https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n-308x173.jpg 308w, https://www.dabangasudan.org/wp-content/uploads/2026/10/518302038_122150358698650726_3992609105787850385_n.jpg 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>Drone attack in Furawiya area of North Darfur kills two and injures eight, while a...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/drone-attack-kills-two-in-north-darfur-as-red-crescent-volunteer-killed-in-blue-nile\">Drone attack kills two in North Darfur as Red Crescent volunteer killed in Blue Nile</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "Drone attack in Furawiya area of North Darfur kills two and injures eight, while a... The post Drone attack kills two in North Darfur as Red Crescent volunteer killed in Blue Nile appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 4
     },
     {
       "id": "e88bd548bf8578f9aec45b8984f83018949660525f501c895f2fcb22d1008d26",
       "title": "Minawi urges restraint as fallout from deadly Sudan-Egypt border strikes widens",
       "url": "https://www.dabangasudan.org/en/all-news/article/minawi-urges-restraint-as-fallout-from-deadly-sudan-egypt-border-strikes-widens",
       "published_at": "2026-10-15T15:13:35+00:00",
-      "summary": "<div><img width=\"300\" height=\"238\" src=\"https://www.dabangasudan.org/wp-content/uploads/2023/11/21XXXX-Minni-Minawi-FFC-1-300x238.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2023/11/21XXXX-Minni-Minawi-FFC-1-300x238.jpg 300w, https://www.dabangasudan.org/wp-content/uploads/2023/11/21XXXX-Minni-Minawi-FFC-1-150x119.jpg 150w, https://www.dabangasudan.org/wp-content/uploads/2023/11/21XXXX-Minni-Minawi-FFC-1-218x173.jpg 218w, https://www.dabangasudan.org/wp-content/uploads/2023/11/21XXXX-Minni-Minawi-FFC-1.jpg 532w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>Darfur’s governor says most reported victims of the North Wadi bombing came from Darfur, as...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/minawi-urges-restraint-as-fallout-from-deadly-sudan-egypt-border-strikes-widens\">Minawi urges restraint as fallout from deadly Sudan-Egypt border strikes widens</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "Darfur’s governor says most reported victims of the North Wadi bombing came from Darfur, as... The post Minawi urges restraint as fallout from deadly Sudan-Egypt border strikes widens appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 4
     },
     {
       "id": "8c7022fc5c0cb69c9e0122ed8e419031bb58d6ea8e34975173319fd4d5e3266b",
       "title": "STPT: ‘Sudan’s warring parties bypass sanctions through business networks’",
       "url": "https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks",
       "published_at": "2026-10-13T18:19:17+00:00",
-      "summary": "<div><img width=\"300\" height=\"300\" src=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/cropped-white-1500x500-1.jpg-300x300.webp\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/cropped-white-1500x500-1.jpg-300x300.webp 300w, https://www.dabangasudan.org/wp-content/uploads/2026/10/cropped-white-1500x500-1.jpg-150x150.webp 150w, https://www.dabangasudan.org/wp-content/uploads/2026/10/cropped-white-1500x500-1.jpg-173x173.webp 173w, https://www.dabangasudan.org/wp-content/uploads/2026/10/cropped-white-1500x500-1.jpg.webp 512w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>A new report by the Sudan Transparency and Policy Tracker urges international governments to target...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/stpt-sudans-warring-parties-bypass-sanctions-through-business-networks\">STPT: ‘Sudan’s warring parties bypass sanctions through business networks’</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "A new report by the Sudan Transparency and Policy Tracker urges international governments to target... The post STPT: ‘Sudan’s warring parties bypass sanctions through business networks’ appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 6
     },
     {
       "id": "fcfb69a47181650efa0eb7110c223ff8eb1b4073485614f2a12af2b4dcbf171e",
       "title": "Two Egyptians killed in Khartoum as Sudan probes deadly strikes on miners by Egyptian forces",
       "url": "https://www.dabangasudan.org/en/all-news/article/two-egyptians-killed-in-khartoum-as-sudan-probes-deadly-strikes-on-miners-by-egyptian-forces",
       "published_at": "2026-10-13T17:43:37+00:00",
-      "summary": "<div><img width=\"182\" height=\"300\" src=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/2026-10-13-13_17_39-Document18-Word-182x300.png\" class=\"attachment-medium size-medium wp-post-image\" alt=\"معدنون أهليون في شمال الوادي يختبئون من طائرة حربية -13 أكتوبر 2026- وسائل التواصل\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2026/10/2026-10-13-13_17_39-Document18-Word-182x300.png 182w, https://www.dabangasudan.org/wp-content/uploads/2026/10/2026-10-13-13_17_39-Document18-Word-91x150.png 91w, https://www.dabangasudan.org/wp-content/uploads/2026/10/2026-10-13-13_17_39-Document18-Word-105x173.png 105w, https://www.dabangasudan.org/wp-content/uploads/2026/10/2026-10-13-13_17_39-Document18-Word.png 358w\" sizes=\"auto, (max-width: 182px) 100vw, 182px\" /></div> <p>Two Egyptian truck drivers were shot dead in Khartoum on Monday, days after reported Egyptian...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/two-egyptians-killed-in-khartoum-as-sudan-probes-deadly-strikes-on-miners-by-egyptian-forces\">Two Egyptians killed in Khartoum as Sudan probes deadly strikes on miners by Egyptian forces</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "Two Egyptian truck drivers were shot dead in Khartoum on Monday, days after reported Egyptian... The post Two Egyptians killed in Khartoum as Sudan probes deadly strikes on miners by Egyptian forces appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 6
     },
     {
       "id": "05109aa3870beadf08ca24de1d1314ea48edea74eb66e4262c9c8a5ee0b1fd92",
       "title": "Sudanese refugee killed as fire destroys shelters in eastern Chad",
       "url": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugee-killed-as-fire-destroys-shelters-in-eastern-chad",
       "published_at": "2026-10-12T17:31:55+00:00",
-      "summary": "<div><img width=\"300\" height=\"168\" src=\"https://www.dabangasudan.org/wp-content/uploads/2022/12/fire-300x168.jpeg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2022/12/fire-300x168.jpeg 300w, https://www.dabangasudan.org/wp-content/uploads/2022/12/fire-150x84.jpeg 150w, https://www.dabangasudan.org/wp-content/uploads/2022/12/fire-309x173.jpeg 309w, https://www.dabangasudan.org/wp-content/uploads/2022/12/fire.jpeg 350w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>A young Sudanese refugee was killed in Adré camp in eastern Chad on Sunday, as...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/sudanese-refugee-killed-as-fire-destroys-shelters-in-eastern-chad\">Sudanese refugee killed as fire destroys shelters in eastern Chad</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "A young Sudanese refugee was killed in Adré camp in eastern Chad on Sunday, as... The post Sudanese refugee killed as fire destroys shelters in eastern Chad appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 7
     },
     {
       "id": "b9aca6fda2f66be7222bd80c1e6cca5954ceabf167df316c2e7a776db4273fb4",
-      "title": "Malnutrition deaths reach 1,852 in areas controlled by SLM-AW",
+      "title": "Malnutrition deaths reach 1,852 in areas controlled by SLM-AW",
       "url": "https://www.dabangasudan.org/en/all-news/article/malnutrition-deaths-reach-1852-in-areas-controlled-by-slm-aw",
       "published_at": "2026-10-12T17:29:17+00:00",
-      "summary": "<div><img width=\"300\" height=\"181\" src=\"https://www.dabangasudan.org/wp-content/uploads/2025/07/Screenshot_20240310_165405_com.whatsapp_edit_169049892247639-780x470-1-300x181.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.dabangasudan.org/wp-content/uploads/2025/07/Screenshot_20240310_165405_com.whatsapp_edit_169049892247639-780x470-1-300x181.jpg 300w, https://www.dabangasudan.org/wp-content/uploads/2025/07/Screenshot_20240310_165405_com.whatsapp_edit_169049892247639-780x470-1-150x90.jpg 150w, https://www.dabangasudan.org/wp-content/uploads/2025/07/Screenshot_20240310_165405_com.whatsapp_edit_169049892247639-780x470-1-768x463.jpg 768w, https://www.dabangasudan.org/wp-content/uploads/2025/07/Screenshot_20240310_165405_com.whatsapp_edit_169049892247639-780x470-1-287x173.jpg 287w, https://www.dabangasudan.org/wp-content/uploads/2025/07/Screenshot_20240310_165405_com.whatsapp_edit_169049892247639-780x470-1.jpg 780w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></div> <p>The civil authority in areas controlled by the&#160;Sudan Liberation Movement led by Abdelwahid El Nur...</p> <p>The post <a href=\"https://www.dabangasudan.org/en/all-news/article/malnutrition-deaths-reach-1852-in-areas-controlled-by-slm-aw\">Malnutrition deaths reach 1,852 in areas controlled by SLM-AW</a> appeared first on <a href=\"https://www.dabangasudan.org/en\">Dabanga Radio TV Online</a>.</p>",
+      "summary": "The civil authority in areas controlled by the Sudan Liberation Movement led by Abdelwahid El Nur... The post Malnutrition deaths reach 1,852 in areas controlled by SLM-AW appeared first on Dabanga Radio TV Online .",
       "source_feed": "https://www.dabangasudan.org/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 7
     },
     {
       "id": "f8dc678f07cbb359adfb2b7afbec997c8efbf3d840756787555bedca02b10b86",
       "title": "Eastern Sudan: Militarisation or State-Building?",
       "url": "https://www.altaghyeer.info/en/2026/09/16/eastern-sudan-militarisation-or-state-building-2/",
       "published_at": "2026-09-15T22:36:54+00:00",
-      "summary": "Eastern Sudan: Militarisation or State-Building? Part 3 of 4 Salih Ammar Westhorn2030@gmail.com The rise of militias and the proliferation of weapons have become defining challenges not only in Sudan but also across parts of the Middle East and Africa. The phenomenon flourishes wherever state institutions collapse, lose legitimacy or become incapable of performing their basic &#8230;",
+      "summary": "Eastern Sudan: Militarisation or State-Building? Part 3 of 4 Salih Ammar Westhorn2030@gmail.com The rise of militias and the proliferation of weapons have become defining challenges not only in Sudan but also across parts of the Middle East and Africa. The phenomenon flourishes wherever state institutions collapse, lose legitimacy or become incapable of performing their basic …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 34
     },
     {
       "id": "27925776925b6be255c8392eb94a8997b6f6feed9088207ea24aa064e96a03cf",
       "title": "Eastern Sudan: Militarisation or State-Building",
       "url": "https://www.altaghyeer.info/en/2026/09/11/eastern-sudan-militarisation-or-state-building/",
       "published_at": "2026-09-11T13:17:31+00:00",
-      "summary": "*Eastern Sudan: Militarisation or State-Building?* Part 2 of 4 Salih Ammar *Westhorn2030@gmail.com The armed movements and militias operating in eastern Sudan can broadly be divided into four categories. The first comprises formations associated with the Islamic Movement led by Ali Karti. The second consists of the Darfur-based groups commonly known as the Joint Forces. The &#8230;",
+      "summary": "*Eastern Sudan: Militarisation or State-Building?* Part 2 of 4 Salih Ammar *Westhorn2030@gmail.com The armed movements and militias operating in eastern Sudan can broadly be divided into four categories. The first comprises formations associated with the Islamic Movement led by Ali Karti. The second consists of the Darfur-based groups commonly known as the Joint Forces. The …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 38
     },
     {
       "id": "bddb61765018eb7bba04b510fb40a53c898fb194f722dfca7cc9047b4d37b117",
       "title": "Has the Quintet Lost Its Way in Sudan?",
       "url": "https://www.altaghyeer.info/en/2026/08/15/has-the-quintet-lost-its-way-in-sudan/",
       "published_at": "2026-08-15T16:15:55+00:00",
-      "summary": "&#160; ?Has the Quintet Lost Its Way in Sudan *Salih Ammar* A broad debate is currently underway regarding the role of the Quintet mechanism and its capacity to facilitate the political process among Sudanese political actors. This debate is of immense importance to more than forty million Sudanese who are waiting for any glimmer of &#8230;",
+      "summary": "?Has the Quintet Lost Its Way in Sudan *Salih Ammar* A broad debate is currently underway regarding the role of the Quintet mechanism and its capacity to facilitate the political process among Sudanese political actors. This debate is of immense importance to more than forty million Sudanese who are waiting for any glimmer of …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 65
     },
     {
       "id": "79fabe881bfc07515f65ca245802dd969bfd30c77c6353f63bb266e71a4fd696",
       "title": "The End of Rey – Mote",
       "url": "https://www.altaghyeer.info/en/2026/02/26/the-end-of-rey-mote/",
       "published_at": "2026-02-26T12:42:50+00:00",
-      "summary": "&#160; &#160; The End of Rey – Mote Sara Hamza Aljack Dr. Zahra, Professor of French at the Faculty of Arts, University of Khartoum, sits in the lounge of her elegant apartment. She has just finished her late breakfast—millet porridge (assida) and fresh milk—shared with her five-year-old daughter, Tahra. This was the favorite meal of &#8230;",
+      "summary": "The End of Rey – Mote Sara Hamza Aljack Dr. Zahra, Professor of French at the Faculty of Arts, University of Khartoum, sits in the lounge of her elegant apartment. She has just finished her late breakfast—millet porridge (assida) and fresh milk—shared with her five-year-old daughter, Tahra. This was the favorite meal of …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 235
     },
     {
       "id": "3d9948d29e01d1374466a21efe13399eb9495d1817721f4bcb8a10afb035b85c",
       "title": "Saudi Arabia: The Deferred Target and Key to the Middle East",
       "url": "https://www.altaghyeer.info/en/2026/02/21/saudi-arabia-the-deferred-target-and-key-to-the-middle-east/",
       "published_at": "2026-02-21T14:52:34+00:00",
-      "summary": "Saudi Arabia: The Deferred Target and Key to the Middle East By: Mohammed Al Hassan M.Nour As President Trump returns to the White House, Riyadh finds itself in a paradoxical position—courted as a partner yet targeted as an asset. Why Is the Kingdom being handled with care, and what does its future hold? In the &#8230;",
+      "summary": "Saudi Arabia: The Deferred Target and Key to the Middle East By: Mohammed Al Hassan M.Nour As President Trump returns to the White House, Riyadh finds itself in a paradoxical position—courted as a partner yet targeted as an asset. Why Is the Kingdom being handled with care, and what does its future hold? In the …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 240
     },
     {
       "id": "7afbb89d01588bcbabf4dabad2cbe12ac56018a8900b10ed2d1c7d39a5038ec2",
       "title": "State Design Between Militarized Centralism and the Reproduction of Domination",
       "url": "https://www.altaghyeer.info/en/2026/02/20/state-design-between-militarized-centralism-and-the-reproduction-of-domination-2/",
       "published_at": "2026-02-19T23:03:47+00:00",
-      "summary": "&#160; State Design Between Militarized Centralism and the Reproduction of Domination Nahid M.Elhassan &#8212; First: What Do We Mean by Structural Dysfunction? This article proceeds from a central premise of this book: Sudan’s crisis is not merely a matter of governmental performance failure, but rather an original design defect embedded within the structure of the &#8230;",
+      "summary": "State Design Between Militarized Centralism and the Reproduction of Domination Nahid M.Elhassan — First: What Do We Mean by Structural Dysfunction? This article proceeds from a central premise of this book: Sudan’s crisis is not merely a matter of governmental performance failure, but rather an original design defect embedded within the structure of the …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 242
     },
     {
       "id": "1ef92e9ffe6230dd2201ebcf54bb41b3da28dd38517a3c0014254fb6ec7400d6",
       "title": "From Fragile State to Compound Dysfunction",
       "url": "https://www.altaghyeer.info/en/2026/02/18/from-fragile-state-to-compound-dysfunction/",
       "published_at": "2026-02-18T15:36:55+00:00",
-      "summary": "From Fragile State to Compound Dysfunction: Toward a New Theoretical Framework for Understanding the Sudanese Crisis Dr. Nahid M. Elhassan Introduction Over the past decades, Sudan has frequently been described in political literature as a “failed state” or a “fragile state.” At first glance, such labels appear consistent with the country’s recurring military coups, civil &#8230;",
+      "summary": "From Fragile State to Compound Dysfunction: Toward a New Theoretical Framework for Understanding the Sudanese Crisis Dr. Nahid M. Elhassan Introduction Over the past decades, Sudan has frequently been described in political literature as a “failed state” or a “fragile state.” At first glance, such labels appear consistent with the country’s recurring military coups, civil …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 243
     },
     {
       "id": "35cb6f0aef02f385f40823b0293d767c4eb93c71975e20b16ef28812a75c51ce",
       "title": "To Massad Boulos: You are on the right track! — Ramadan Mubarak",
       "url": "https://www.altaghyeer.info/en/2026/02/18/to-massad-boulos-you-are-on-the-right-track-ramadan-mubarak/",
       "published_at": "2026-02-18T12:30:11+00:00",
-      "summary": "To Massad Boulos: You are on the right track! — Ramadan Mubarak Munzer Mustafa Translated from Arabic The Sudanese people yearn for an end to the war and the suffering perpetuated by socially and politically isolated groups (the militias: the military and paramilitary forces currently in conflict). These groups seek to hold the land and &#8230;",
+      "summary": "To Massad Boulos: You are on the right track! — Ramadan Mubarak Munzer Mustafa Translated from Arabic The Sudanese people yearn for an end to the war and the suffering perpetuated by socially and politically isolated groups (the militias: the military and paramilitary forces currently in conflict). These groups seek to hold the land and …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 244
     },
     {
       "id": "793947f5e2120eff08fdbaac032326a811912eef7a17be926ef3f1a7a4467c6f",
       "title": "Massad Boulos Should not Shake Hands With Sudan’s Generals",
       "url": "https://www.altaghyeer.info/en/2026/02/10/massad-boulos-should-not-shake-hands-with-sudans-generals-2/",
       "published_at": "2026-02-10T12:28:59+00:00",
-      "summary": "Massad Boulos Should not Shake Hands With Sudan’s Generals Abdallah Greyda Sudan today is a nation at the crossroads of history, and tragedy and opportunity, and Massad Boulos at the epicenter of this storm. Since April 2023, when the Sudanese Armed Force (SAF) and the Rapid Support Force (RSF) tore the country apart, millions have &#8230;",
+      "summary": "Massad Boulos Should not Shake Hands With Sudan’s Generals Abdallah Greyda Sudan today is a nation at the crossroads of history, and tragedy and opportunity, and Massad Boulos at the epicenter of this storm. Since April 2023, when the Sudanese Armed Force (SAF) and the Rapid Support Force (RSF) tore the country apart, millions have …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 252
     },
     {
       "id": "4cbfa870aa65d01d3d75251fad40d023b4c57af2e96f724aba17c7c422d6cdcb",
       "title": "Massad Boulos Returns… But Why Now?",
       "url": "https://www.altaghyeer.info/en/2026/02/05/paul-soles-returns-but-why-now/",
       "published_at": "2026-02-05T15:39:29+00:00",
-      "summary": "Massad Boulos Returns… But Why Now? By Mohamed Al-Hassan Mohamed Nour Massad Boulos has re-emerged in the Sudan file—not as the architect of a breakthrough, but as a familiar voice conveying Washington’s established narrative. His return follows a brief lull after statements by the U.S. Secretary of State, which appeared, at the time, to challenge &#8230;",
+      "summary": "Massad Boulos Returns… But Why Now? By Mohamed Al-Hassan Mohamed Nour Massad Boulos has re-emerged in the Sudan file—not as the architect of a breakthrough, but as a familiar voice conveying Washington’s established narrative. His return follows a brief lull after statements by the U.S. Secretary of State, which appeared, at the time, to challenge …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 256
     },
     {
       "id": "1b4f41296b61fca31ef2ad4cb58367535d6e17551f02a28b3f5b15a11dd37599",
       "title": "After the Sudden Retreat: Why Is Washington Threatening Again — and What Messages Are Iran and It’s allies Sending?",
       "url": "https://www.altaghyeer.info/en/2026/02/02/after-the-sudden-retreat-why-is-washington-threatening-again-and-what-messages-are-iran-and-its-allies-sending/",
       "published_at": "2026-02-02T14:54:04+00:00",
-      "summary": "After the Sudden Retreat: Why Is Washington Threatening Again — and What Messages Are Iran and It’s allies Sending? By Mohamed Al-Hassan Mohammed Nour The slogan “America First” was never a mere campaign catchphrase. It represented a coherent strategic project built on three pillars aimed at maximizing rapid gains at minimal cost: deal-making, control over &#8230;",
+      "summary": "After the Sudden Retreat: Why Is Washington Threatening Again — and What Messages Are Iran and It’s allies Sending? By Mohamed Al-Hassan Mohammed Nour The slogan “America First” was never a mere campaign catchphrase. It represented a coherent strategic project built on three pillars aimed at maximizing rapid gains at minimal cost: deal-making, control over …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 259
     },
     {
       "id": "d7502a10a329a3d975e937d588f863171cf1bc332f52859bf9fa592456632b41",
       "title": "Drums of War: The Buildup Against Iran & The Eastern Axis’s Dilemma",
       "url": "https://www.altaghyeer.info/en/2026/01/28/drums-of-war-the-buildup-against-iran-the-eastern-axiss-dilemma/",
       "published_at": "2026-01-28T20:40:18+00:00",
-      "summary": "Drums of War: The Buildup Against Iran &#38; The Eastern Axis&#8217;s Dilemma By Mohamed Al-Hassan Mohamed Noor Events in the Middle East are accelerating at an alarming pace. The &#8220;drums of war&#8221; are no longer a journalistic metaphor but a tangible reality felt in every move. From closed-door meetings between American and Israeli military leaders &#8230;",
+      "summary": "Drums of War: The Buildup Against Iran & The Eastern Axis’s Dilemma By Mohamed Al-Hassan Mohamed Noor Events in the Middle East are accelerating at an alarming pace. The “drums of war” are no longer a journalistic metaphor but a tangible reality felt in every move. From closed-door meetings between American and Israeli military leaders …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 264
     },
     {
       "id": "13794e59851afb37eadd6d9b5766744a54fdb2a21f0a50485be261e613d56e43",
       "title": "Artificial Intelligence and the Fabricated Reality",
       "url": "https://www.altaghyeer.info/en/2026/01/23/artificial-intelligence-and-the-fabricated-reality-2/",
       "published_at": "2026-01-23T14:59:26+00:00",
-      "summary": "Omer Sidahmed Abstract Artificial intelligence is often discussed through a technical or economic lens, detached from its material, cultural, and ethical foundations. This essay offers a different reading—one that begins with water as a hidden yet essential component in cooling algorithms, and extends to questions of memory, simulation, and responsibility. Rather than asking what AI &#8230;",
+      "summary": "Omer Sidahmed Abstract Artificial intelligence is often discussed through a technical or economic lens, detached from its material, cultural, and ethical foundations. This essay offers a different reading—one that begins with water as a hidden yet essential component in cooling algorithms, and extends to questions of memory, simulation, and responsibility. Rather than asking what AI …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 269
     },
     {
       "id": "45d96cec898288a6419885ad79e7a5914c2701de85a9289cf961436009efce0d",
       "title": "Egypt’s Parallel Diplomacy and the Management of Sudan’s War",
       "url": "https://www.altaghyeer.info/en/2026/01/15/egypts-parallel-diplomacy-and-the-management-of-sudans-war/",
       "published_at": "2026-01-15T19:26:32+00:00",
-      "summary": "By Omer Sidahmed Egypt recently convened a meeting in Cairo under the banner of the “Consultative Mechanism for Enhancing Peace in Sudan,” bringing together regional and international actors. The gathering was promoted as a constructive contribution to stability. In reality, it reflects a broader pattern of parallel initiatives deployed by Cairo that risk hollowing out &#8230;",
+      "summary": "By Omer Sidahmed Egypt recently convened a meeting in Cairo under the banner of the “Consultative Mechanism for Enhancing Peace in Sudan,” bringing together regional and international actors. The gathering was promoted as a constructive contribution to stability. In reality, it reflects a broader pattern of parallel initiatives deployed by Cairo that risk hollowing out …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 277
     },
     {
       "id": "432928bff5cf53605f14eca09a6f4e50834295f5c0eb2a315b1858cbcf5e216e",
       "title": "Artificial Intelligence and the Fabricated Reality",
       "url": "https://www.altaghyeer.info/en/2026/01/13/artificial-intelligence-and-the-fabricated-reality/",
       "published_at": "2026-01-13T20:17:05+00:00",
-      "summary": "Artificial Intelligence and the Fabricated Reality Water, Memory, and the Question of Decision Omer Sidahmed Abstract Artificial intelligence is often discussed through a technical or economic lens, detached from its material, cultural, and ethical foundations. This essay offers a different reading—one that begins with water as a hidden yet essential component in cooling algorithms, and &#8230;",
+      "summary": "Artificial Intelligence and the Fabricated Reality Water, Memory, and the Question of Decision Omer Sidahmed Abstract Artificial intelligence is often discussed through a technical or economic lens, detached from its material, cultural, and ethical foundations. This essay offers a different reading—one that begins with water as a hidden yet essential component in cooling algorithms, and …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 279
     },
     {
       "id": "94dceb9ea2ff2ab6cb38eba7fc51c9ef192c5f0bbf7c8291e7ea56d1b3060af7",
       "title": "What Does (Minister of Finance) Gibril Ibrahim Want? (6)",
       "url": "https://www.altaghyeer.info/en/2025/12/31/what-does-minister-of-finance-gibril-ibrahim-want-6/",
       "published_at": "2025-12-31T11:19:15+00:00",
-      "summary": "M Mustafa In December 2025, coinciding with the 150th anniversary of the founding of Al-Ahram institution, the Egyptian Ministry of Foreign Affairs issued its foreign policy document titled &#8220;Strategic Equilibrium&#8221; (The White Paper). Through this document, Egypt clarified its stance on the Sudan file, proposing &#8220;The State&#8221; as the sole alternative to &#8220;Militias.&#8221; This position &#8230;",
+      "summary": "M Mustafa In December 2025, coinciding with the 150th anniversary of the founding of Al-Ahram institution, the Egyptian Ministry of Foreign Affairs issued its foreign policy document titled “Strategic Equilibrium” (The White Paper). Through this document, Egypt clarified its stance on the Sudan file, proposing “The State” as the sole alternative to “Militias.” This position …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 293
     },
     {
       "id": "3f2d5404f8e64bd42bb07f1e023aedba4328289f014eb00196c87db0e0cfde61",
       "title": "What Does (Finance Minister) Gibril Ibrahim Want? (5)",
       "url": "https://www.altaghyeer.info/en/2025/12/29/what-does-finance-minister-gibril-ibrahim-want-5/",
       "published_at": "2025-12-29T12:59:07+00:00",
-      "summary": "What Does (Finance Minister) Gibril Ibrahim Want? (5) Munzer Mustafa Translated from Arabic The World Bank Group’s recent &#8220;Operational Policy&#8221; (PO 7.30) has revealed a radical shift in the architecture of international finance, incentivizing de facto authorities resulting from military coups or separatist movements. This new policy opens the door for illegitimate regimes to benefit &#8230;",
+      "summary": "What Does (Finance Minister) Gibril Ibrahim Want? (5) Munzer Mustafa Translated from Arabic The World Bank Group’s recent “Operational Policy” (PO 7.30) has revealed a radical shift in the architecture of international finance, incentivizing de facto authorities resulting from military coups or separatist movements. This new policy opens the door for illegitimate regimes to benefit …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 294
     },
     {
       "id": "4cf33b80bf60634c1e47b5d23768abb0020d4ecc051c6b7d933df9c53f3adf41",
       "title": "What Does Minister of Finance (Gibril Ibrahim) Want? (4)",
       "url": "https://www.altaghyeer.info/en/2025/12/26/what-does-minister-of-finance-gibril-ibrahim-want-4/",
       "published_at": "2025-12-26T12:48:32+00:00",
-      "summary": "What Does Minister of Finance (Gibril Ibrahim) Want? (4) Munzer Mustafa Translated from Arabic In a move that raises troubling questions regarding its timing and political implications, the United Nations signed an Interim Cooperation Framework (ICF) in December 2025 with the de facto authority in Port Sudan—in its capacity as the Government of Sudan. This &#8230;",
+      "summary": "What Does Minister of Finance (Gibril Ibrahim) Want? (4) Munzer Mustafa Translated from Arabic In a move that raises troubling questions regarding its timing and political implications, the United Nations signed an Interim Cooperation Framework (ICF) in December 2025 with the de facto authority in Port Sudan—in its capacity as the Government of Sudan. This …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 297
     },
     {
       "id": "2ae7560860b269d64caee0759e7da507317861b3b64b269c6393fe9c71fdc1f1",
       "title": "What Does Finance Minister “Gibril Ibrahim” Want? (2)",
       "url": "https://www.altaghyeer.info/en/2025/12/13/what-does-finance-minister-gibril-ibrahim-want-2/",
       "published_at": "2025-12-13T12:13:43+00:00",
-      "summary": "M. Mustafa The international aid system, intrinsically built upon the paradox of &#8220;Relief and Development versus Extracted Resources,&#8221; has incentivized the Finance Minister, Gibril Ibrahim (post-Juba Agreement 2020), to adopt a strategy of &#8220;Violent Privatization of the State.&#8221; This approach aims to form a new center of power by crushing political opponents (the Forces of &#8230;",
+      "summary": "M. Mustafa The international aid system, intrinsically built upon the paradox of “Relief and Development versus Extracted Resources,” has incentivized the Finance Minister, Gibril Ibrahim (post-Juba Agreement 2020), to adopt a strategy of “Violent Privatization of the State.” This approach aims to form a new center of power by crushing political opponents (the Forces of …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 311
     },
     {
       "id": "9f9bc1b415bfe596221f30929f82bf87d0aed1f3696c72983bfb43876bbd85c8",
       "title": "When the Stadium Becomes a Homeland (2)",
       "url": "https://www.altaghyeer.info/en/2025/12/10/when-the-stadium-becomes-a-homeland-2/",
       "published_at": "2025-12-10T20:20:47+00:00",
-      "summary": "When the Stadium Becomes a Homeland (2) Between Longing, Anger, and Misunderstanding: A Psychological Reading of Sudanese Reactions in Wartime Dr. Nahid Mohammed Al-Hassan Introduction In the first part of this series, we explored the scene created by the Sudanese national team during the Arab Cup—how the stadium became a “temporary homeland” where Sudanese abroad &#8230;",
+      "summary": "When the Stadium Becomes a Homeland (2) Between Longing, Anger, and Misunderstanding: A Psychological Reading of Sudanese Reactions in Wartime Dr. Nahid Mohammed Al-Hassan Introduction In the first part of this series, we explored the scene created by the Sudanese national team during the Arab Cup—how the stadium became a “temporary homeland” where Sudanese abroad …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 313
     },
     {
       "id": "57bf99c0773f297d5ccc430021fbf47642752d31019a01ee8f70e1a7aa6c2b6c",
       "title": "When the Stadium Becomes a Homeland: Sport as a Space for Reconstructing Identity and Belonging in Times of War (1)",
       "url": "https://www.altaghyeer.info/en/2025/12/10/when-the-stadium-becomes-a-homeland-sport-as-a-space-for-reconstructing-identity-and-belonging-in-times-of-war-1/",
       "published_at": "2025-12-10T18:00:38+00:00",
-      "summary": "Peace from Within When the Stadium Becomes a Homeland: Sport as a Space for Reconstructing Identity and Belonging in Times of War (1) Dr. Nahid Mohamed Elhassan When the Sudanese national team stepped onto the pitch during the Arab Cup, something far more profound than football was unfolding. In a stadium in Qatar—far from the &#8230;",
+      "summary": "Peace from Within When the Stadium Becomes a Homeland: Sport as a Space for Reconstructing Identity and Belonging in Times of War (1) Dr. Nahid Mohamed Elhassan When the Sudanese national team stepped onto the pitch during the Arab Cup, something far more profound than football was unfolding. In a stadium in Qatar—far from the …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 313
     },
     {
       "id": "695eacf912a5278cdc70b330ae9aaac76c4dc89c378282a1ff59c41474918b3c",
       "title": "What Does Finance Minister “Jibril Ibrahim” Want?",
       "url": "https://www.altaghyeer.info/en/2025/12/10/what-does-finance-minister-jibril-ibrahim-want/",
       "published_at": "2025-12-10T12:21:21+00:00",
-      "summary": "M.Mustafa During his visit to Tehran in November 2024, Jibril Ibrahim did not request military and intelligence support for his own movement or for the regular army. Instead, he specifically requested it for the Al-Bara&#8217; bin Malik militia (the modern name for the notorious Popular Defence Forces). He sought to make its direct coordination with &#8230;",
+      "summary": "M.Mustafa During his visit to Tehran in November 2024, Jibril Ibrahim did not request military and intelligence support for his own movement or for the regular army. Instead, he specifically requested it for the Al-Bara’ bin Malik militia (the modern name for the notorious Popular Defence Forces). He sought to make its direct coordination with …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 314
     },
     {
       "id": "49695777e730215924635e20b5f5491234d787130eb5d067d35ce209016f10f9",
       "title": "Will the Djibouti Meeting End the War and Dismantle Omar al-Bashir’s Regime?",
       "url": "https://www.altaghyeer.info/en/2025/12/08/will-the-djibouti-meeting-end-the-war-and-dismantle-omar-al-bashirs-regime/",
       "published_at": "2025-12-08T14:05:23+00:00",
-      "summary": "Will the Djibouti Meeting End the War and Dismantle Omar al-Bashir&#8217;s Regime? &#8220;Translated from Arabic&#8221; By: Munzer Mustafa* The United Nations, the Intergovernmental Authority on Development (IGAD), and the African Union, in coordination and participation with the Arab League and the European Union, are holding a high-level meeting later this month. This meeting aims to &#8230;",
+      "summary": "Will the Djibouti Meeting End the War and Dismantle Omar al-Bashir’s Regime? “Translated from Arabic” By: Munzer Mustafa* The United Nations, the Intergovernmental Authority on Development (IGAD), and the African Union, in coordination and participation with the Arab League and the European Union, are holding a high-level meeting later this month. This meeting aims to …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 315
     },
     {
       "id": "cb945f5c5f5a3632e01bfca7d8bd02fc534f526fff9dce465cd9c758b9b3c970",
       "title": "Forgotten Conflict, Forgotten Nation",
       "url": "https://www.altaghyeer.info/en/2025/11/27/forgotten-conflict-forgotten-nation/",
       "published_at": "2025-11-27T15:38:53+00:00",
-      "summary": "&#160; The ongoing conflict that erupted in April 2023 in Khartoum between the Rapid Support Forces (RSF) and the Sudanese Armed Forces (SAF) has brought Sudan to its knees. Millions of people have been displaced, lost homes and businesses, suffered horrific violations, including torture, sexual violence and others and lost loved ones. The United Nations &#8230;",
+      "summary": "The ongoing conflict that erupted in April 2023 in Khartoum between the Rapid Support Forces (RSF) and the Sudanese Armed Forces (SAF) has brought Sudan to its knees. Millions of people have been displaced, lost homes and businesses, suffered horrific violations, including torture, sexual violence and others and lost loved ones. The United Nations …",
       "source_feed": "https://www.altaghyeer.info/en/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "old",
+      "age_days": 326
     },
     {
       "id": "3678f24a4959b335b1d8441cc2fa3db043127faf6242c2854e3dc2b08d493f65",
       "title": "قراءة في تقرير أسر شهداء قيادة قبيلة المجانين",
       "url": "https://sudanile.com/%d9%82%d8%b1%d8%a7%d8%a1%d8%a9-%d9%81%d9%8a-%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a3%d8%b3%d8%b1-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d9%82%d8%a8%d9%8a%d9%84%d8%a9-%d8%a7%d9%84/",
       "published_at": "2026-10-19T09:36:24+00:00",
-      "summary": "<p>✍️عادل ود سهل، يكتب&#8230;قراءة في تقرير أسر شهداء قيادة قبيلة المجانين:بعد أن انكسر الصمت، وانكشفت دموع التماسيحمن قتل؟ ومن حرّض؟ ومن نفّذ؟ 🔵 اعتدتُ أن أكتب إليكم كل اثنين&#8230;ومنذ ذلك الجمعة الدامي كانت الاثنينات تمرّ ثقيلة:أفتح الصفحة فلا يخرج من القلم إلا الدمع.أما اليوم فللاثنين طعمٌ آخر.فقد صدر هذا الأسبوع تقرير أسر الشهداء :«من قتل [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%82%d8%b1%d8%a7%d8%a1%d8%a9-%d9%81%d9%8a-%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%a3%d8%b3%d8%b1-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%82%d9%8a%d8%a7%d8%af%d8%a9-%d9%82%d8%a8%d9%8a%d9%84%d8%a9-%d8%a7%d9%84/\">قراءة في تقرير أسر شهداء قيادة قبيلة المجانين</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
+      "summary": "✍️عادل ود سهل، يكتب…قراءة في تقرير أسر شهداء قيادة قبيلة المجانين:بعد أن انكسر الصمت، وانكشفت دموع التماسيحمن قتل؟ ومن حرّض؟ ومن نفّذ؟ 🔵 اعتدتُ أن أكتب إليكم كل اثنين…ومنذ ذلك الجمعة الدامي كانت الاثنينات تمرّ ثقيلة:أفتح الصفحة فلا يخرج من القلم إلا الدمع.أما اليوم فللاثنين طعمٌ آخر.فقد صدر هذا الأسبوع تقرير أسر الشهداء :«من قتل […] The post قراءة في تقرير أسر شهداء قيادة قبيلة المجانين appeared first on سودانايل .",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 1
     },
     {
       "id": "695c1f5d1f912160bc887a0b264a79cbaa24102658daa903eb7befcfb8249065",
       "title": "السودان الجديد وشرعية التمثيل: مرة أخرى مع خالد كودي",
       "url": "https://sudanile.com/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%85%d8%b1%d8%a9-%d8%a3%d8%ae%d8%b1/",
       "published_at": "2026-10-19T09:34:44+00:00",
-      "summary": "<p>الواثق كميرkameir@yahoo.comتورونتو، 19 أكتوبر 2026 قرأت الجزء الأول من مقال الأخ خالد كودي الأخير، &#8220;السودان الجديد ليس مقعداً في حوار السودان القديم&#8221; (المدى نيوز، 16 أكتوبر 2026)، وذلك ردا على مقالي &#8220;حول &#8220;تأسيس&#8221; والسودان الجديد: تعقيب على خالد كودي&#8221;، (سودانايل، 12 أكتوبر 2026). وعلى الرغم من اتساع المقال واستدعائه فانون ودوغلاس ومانديلا ومارتن لوثر كينغ [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%85%d8%b1%d8%a9-%d8%a3%d8%ae%d8%b1/\">السودان الجديد وشرعية التمثيل: مرة أخرى مع خالد كودي</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
+      "summary": "الواثق كميرkameir@yahoo.comتورونتو، 19 أكتوبر 2026 قرأت الجزء الأول من مقال الأخ خالد كودي الأخير، “السودان الجديد ليس مقعداً في حوار السودان القديم” (المدى نيوز، 16 أكتوبر 2026)، وذلك ردا على مقالي “حول “تأسيس” والسودان الجديد: تعقيب على خالد كودي”، (سودانايل، 12 أكتوبر 2026). وعلى الرغم من اتساع المقال واستدعائه فانون ودوغلاس ومانديلا ومارتن لوثر كينغ […] The post السودان الجديد وشرعية التمثيل: مرة أخرى مع خالد كودي appeared first on سودانايل .",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 1
     },
     {
       "id": "f9c0867954b039eb3c89ae5b6bf1778997a08697c65e2844e6df02b0ca598c4b",
       "title": "من التفكير, إلى السؤال, إلى أزمة الشرعية في السودان",
       "url": "https://sudanile.com/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d9%83%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%a4%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/",
       "published_at": "2026-10-19T09:33:14+00:00",
-      "summary": "<p>وجدي كامل هنالك مقولات شعبية سالبة عن التفكير، ومنها أن التفكير الكثير يجن صاحبه. «وفكر كثير ـ تتعب». «الهمّ ما بجيب غير الغم»، وأن الهموم إذا ما كثرت وتوالت فعلى الإنسان أن ينوم. وهناك عدد كبير من الأمثال والتعبيرات الشعبية التي تنظر إلى التفكير والهمّ والانشغال العقلي بوصفها أشياء قد تضر بالإنسان، أو لا تغيّر [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d9%81%d9%83%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d8%a4%d8%a7%d9%84-%d8%a5%d9%84%d9%89-%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d8%a9/\">من التفكير, إلى السؤال, إلى أزمة الشرعية في السودان</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
+      "summary": "وجدي كامل هنالك مقولات شعبية سالبة عن التفكير، ومنها أن التفكير الكثير يجن صاحبه. «وفكر كثير ـ تتعب». «الهمّ ما بجيب غير الغم»، وأن الهموم إذا ما كثرت وتوالت فعلى الإنسان أن ينوم. وهناك عدد كبير من الأمثال والتعبيرات الشعبية التي تنظر إلى التفكير والهمّ والانشغال العقلي بوصفها أشياء قد تضر بالإنسان، أو لا تغيّر […] The post من التفكير, إلى السؤال, إلى أزمة الشرعية في السودان appeared first on سودانايل .",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 1
     },
     {
       "id": "b29ce4631be8f7ef86925f4df69da05fefce0f5f00c68065cdde2e981a8abdf5",
       "title": "قبل القصف التالي: أين الإحداثيات يا لجنة «الحادث الأليم»؟",
       "url": "https://sudanile.com/%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d9%82%d8%b5%d9%81-%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a-%d8%a3%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d8%ad%d8%af%d8%a7%d8%ab%d9%8a%d8%a7%d8%aa-%d9%8a%d8%a7-%d9%84%d8%ac%d9%86/",
       "published_at": "2026-10-19T09:31:33+00:00",
-      "summary": "<p>لبنى احمد حسين ثم ماذا بعد؟بنشر هذا العمود، تكون ثمانية أيام قد مرّت على القصف الجوي الذي راح ضحيته دهابة سودانيون، نسأل الله أن يتقبلهم شهداء. سمعنا رواية عسكرية مصرية عن (الحملة المكبرة) لمواجهة أعمال التنقيب غير المشروع عن الذهب، مع تأكيد أن (الحملة متواصلة). وسمعنا رواية سودانية على لسان ضابط معاشي، تقول إن الدهابة [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d9%82%d8%b5%d9%81-%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a-%d8%a3%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d8%ad%d8%af%d8%a7%d8%ab%d9%8a%d8%a7%d8%aa-%d9%8a%d8%a7-%d9%84%d8%ac%d9%86/\">قبل القصف التالي: أين الإحداثيات يا لجنة «الحادث الأليم»؟</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
+      "summary": "لبنى احمد حسين ثم ماذا بعد؟بنشر هذا العمود، تكون ثمانية أيام قد مرّت على القصف الجوي الذي راح ضحيته دهابة سودانيون، نسأل الله أن يتقبلهم شهداء. سمعنا رواية عسكرية مصرية عن (الحملة المكبرة) لمواجهة أعمال التنقيب غير المشروع عن الذهب، مع تأكيد أن (الحملة متواصلة). وسمعنا رواية سودانية على لسان ضابط معاشي، تقول إن الدهابة […] The post قبل القصف التالي: أين الإحداثيات يا لجنة «الحادث الأليم»؟ appeared first on سودانايل .",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 1
     },
     {
       "id": "831865d815a8518831e3fac70241bbf9732cdb11ba4a893b4abe4e9e5cb24398",
@@ -588,7 +909,12 @@
       "published_at": "2026-10-19T09:29:32+00:00",
       "summary": "<p>زهير عثمان حمد ليست أزمة التعليم في السودان مجرد حكاية عن رواتب متأخرة، أو بدلات لم تُصرف، أو معلمين يستعدون لخوض معركة نقابية جديدة. ما تكشفه مطالب لجنة المعلمين السودانيين أعمق من ذلك بكثير؛ إنها صورة لأزمة دولة تتراجع مسؤوليتها عن أحد أهم شروط وجود المجتمع واستمراره، بينما يُترك المعلم لمواجهة تكاليف الحياة، وتُترك الأسر [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%ad%d9%8a%d9%86-%d9%8a%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85-%d8%a7%d9%85%d8%aa%d9%8a%d8%a7%d8%b2%d8%a7%d9%8b-%d9%84%d9%84%d8%a3%d8%ab%d8%b1%d9%8a%d8%a7%d8%a1-%d9%85%d9%86/\">حين يصبح التعليم امتيازاً للأثرياء- من إفقار المعلم إلى تجهيل المجتمع السوداني</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "bbc9b76f46a4af0a9cffdfa969c91f9287179c35e52dcfb01366bf5b0b8786cc",
@@ -597,7 +923,12 @@
       "published_at": "2026-10-19T09:28:12+00:00",
       "summary": "<p>بقلم: إدوارد كورنيليو ديريك أويا ألفريد لم يكن مجرد فنان رحل في التاسع عشر من أكتوبر عام 2021، بل كان مرآة كاملة لمسار شعب كامل من ديم زبير إلى واو إلى الخرطوم ثم إلى جوبا مرة أخرى. من يريد أن يفهم حكاية جنوب السودان الثقافية عليه أن يتتبع حكاية هذا الرجل الذي ولد في الأول [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%af%d9%8a%d8%b1%d9%8a%d9%83-%d8%a3%d9%88%d9%8a%d8%a7-%d8%b9%d9%86%d8%af%d9%85%d8%a7-%d8%ad%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%ad-%d8%a3%d9%86-%d9%8a%d8%a8%d9%86%d9%8a-%d8%af%d9%88/\">ديريك أويا: عندما حاول المسرح أن يبني دولة</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "1d7a310ad7271b87a053001d932abdbee2fb8e9809dd4b08a6bcbde775411988",
@@ -606,7 +937,12 @@
       "published_at": "2026-10-19T09:26:19+00:00",
       "summary": "<p>علاء خيراوي■ ثمة مفارقة سياسية وأخلاقية صارخة تكشف مقدار التناقض في السياسة الإقليمية المصرية، وتطرح سؤالاً مشروعاً حول المعايير التي تحكم موقف القاهرة من سيادة الدول وحرمة دماء مواطنيها. ففي الوقت الذي تتصاعد فيه الاتهامات الموجهة إلى القوات المصرية بشأن الغارات الجوية التي استهدفت مواقع تعدين الذهب قرب الحدود السودانية، وأسفرت عن سقوط عشرات القتلى، [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a-%d8%af%d9%81%d8%a7%d8%b9-%d8%b9%d9%86-%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%88%d8%a7%d9%86/\">مصر السيسي&#8230; دفاع عن سيادة السعودية وانتهاك لسيادة السودان!</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "b16583868beec19c8a66a0f6c8d27776c2a08cefb7ffe47316381a02437d733c",
@@ -615,7 +951,12 @@
       "published_at": "2026-10-19T09:24:39+00:00",
       "summary": "<p>عاطف عبدالله كنت أتوقع أن تشكل المبادرة التي أطلقها الأستاذ قرشي عوض في الخامس من أكتوبر الجاري، وما أعقبها من حوارات وتعقيبات، بدايةً لفتح نافذة في جدار القطيعة بين الحزب الشيوعي السوداني وبقية القوى المدنية المناهضة للحرب، وعلى رأسها تحالف &#8220;صمود&#8221;. ورغم تحفظاتي على بعض ما ورد فيها، فقد رأيت فيها خطوة تستحق التشجيع؛ أملاً [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d9%86-%d8%ac%d8%af%d9%84-%d8%a7%d9%84%d8%ae%d9%84%d8%a7%d9%81-%d8%a5%d9%84%d9%89-%d8%b6%d8%b1%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%81%d9%82-%d9%85%d8%a7-%d8%a7%d9%84%d8%b0%d9%8a/\">من جدل الخلاف إلى ضرورة التوافق: ما الذي يمكن أن ننجزه معاً؟</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "b26ea256d6e60882312fd6833a56553cadc43fc802e868ce57b55786122f5529",
@@ -624,7 +965,12 @@
       "published_at": "2026-10-19T09:23:03+00:00",
       "summary": "<p>النفاق الديني: أن تتخذ الدين سُلّماً لا منهجاً، ووسيلة لا غاية، تتسلق به إلى السياسة والرياسة، وتتاجر به في سوق المال والمنفعة، وتتزين به بين الناس، وأنت تهدم في الخفاء كل قيمة دعا إليها الدين صراحة، وكل فضيلة نادى بها جهارا. هو انفصامٌ نكد، وازدواجٌ فاضح، بين قولٍ يلمع، وفعلٍ يفجع، بين ثوبٍ قصير، وقلبٍ [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%af%d9%8a%d9%86%d9%8c-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%a8%d8%b1-%d9%88%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%83%d8%a7%d8%aa%d8%a8-%d8%a7%d9%84%d9%86/\">دينٌ على المنابر وتجارة في المكاتب.. النفاق المقدس الذي ذبح السودان</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "f5e8fe8f3fdf833626e2e2be87e20793de086d352e15d14a50d35d4a670e97d5",
@@ -633,7 +979,12 @@
       "published_at": "2026-10-19T09:21:37+00:00",
       "summary": "<p>مشهد واحد : تهالك تناهي لي صوت آذان المغرب معلناً نهاية يوم السبت 25 نوفمبر 2023 عندما تجاوز الميكروباص مستشفى الهرم في طريقه إلى بولاق الدكرور ممنياً النفس كنت ، بميكروباص ينقصه راكب واحد يقلني على وجه السرعة إلى ميدان رمسيس قبل أن أستقبل ميكروباص ثالثاً ينتهي بي عند فم شارع خالد بن الوليد بمنطقة [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d8%b4%d9%87%d8%af-%d9%88%d8%a7%d8%ad%d8%af-%d8%aa%d9%87%d8%a7%d9%84%d9%83/\">مشهد واحد : تهالك</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "7d210c741e2c6f5509fb3858a47cfbb84554bd8105eccacecf83632f049479da",
@@ -642,7 +993,12 @@
       "published_at": "2026-10-19T09:19:41+00:00",
       "summary": "<p>لم يعد الشرق الأوسط يعيش أزمات متفرقة يمكن احتواؤها كلٌّ على حدة. المنطقة دخلت مرحلة تحوّل بنيوي في طبيعة الصراع نفسه. فالمواجهة بين إسرائيل وإيران خرجت من الظل إلى العلن، وسقطت المحرّمات التي ظلّت عقوداً تمنع الضربات المباشرة بين الدول. وبلغ ذلك ذروته في حرب يونيو ٢٠٢٥ وما رافقها من ضربات أمريكية على المنشآت النووية [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d8%b4%d8%b1%d9%82-%d8%a7%d9%84%d8%a3%d9%88%d8%b3%d8%b7-%d8%b9%d9%84%d9%89-%d8%ad%d8%a7%d9%81%d8%a9-%d8%a7%d9%84%d9%87%d8%a7%d9%88%d9%8a%d8%a9-%d9%87%d9%84-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8/\">الشرق الأوسط على حافة الهاوية: هل تقترب الحرب الإقليمية الشاملة؟</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "1c3dc88c7c96b7e7a46304ae0aae69b4e61b2a136ef14ca1b83e4a4c096be9de",
@@ -651,7 +1007,12 @@
       "published_at": "2026-10-19T09:17:30+00:00",
       "summary": "<p>مناظير الإثنين 19 أكتوبر، 2026زهير السرَّاجmanazzeer@yahoo.com</p> <p>The post <a href=\"https://sudanile.com/%d8%a2%d8%ab%d8%a7%d8%b1-%d9%85%d8%a7-%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8/\">آثار ما بعد الحرب !</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "42c8357b630333e0de6825a9dd594bab9dc86270fc292d6d948837cbe3f568db",
@@ -660,7 +1021,12 @@
       "published_at": "2026-10-19T09:15:14+00:00",
       "summary": "<p>نصر إسحقاستكهولم.تمر إرتريا بمرحلة مفصلية في تاريخها الحديث؛ حيث يواجه الشعب الإرتري بكافة مكوناته وقواه السياسية تحدياً وجودياً معقداً، يتجاوز حدود الصراع التقليدي بين نظام الجبهة الشعبية وقوى المعارضة. يكمن جوهر هذا التحدي في كيفية التعاطي مع نظام أسياس أفورقي الذي احتكر شرعية الدولة، واستخدم مفهوم &#8220;الوطنية&#8221; كأداة ابتزاز سياسي لتمرير أزماته وتحالفاته المتغيرة. ومع [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%81%d8%ae-%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%84%d9%81-%d9%85%d8%b9-%d8%a5%d8%b3%d9%8a%d8%a7%d8%b3-%d8%a7%d8%a8%d8%aa%d8%b2%d8%a7%d8%b2-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d8%a9-%d9%88%d8%aa%d9%87/\">فخ التحالف مع إسياس: ابتزاز الوطنية وتهديدات السيادة الإرترية .</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "4e7f4e452815be3a3e24173ac97662b7c3ec3371d2c9cb30be243ecb4e9f4ce5",
@@ -669,7 +1035,12 @@
       "published_at": "2026-10-19T09:10:32+00:00",
       "summary": "<p>كمال الهِدَي قبل أيام، وفي خضم تأثري بمقتل عدد من المعدنين السودانيين جراء قصف الطيران المصري، نشرت على صفحتي في فيسبوك المنشور التالي:&#8220;أي سوداني يرتاد حفلاً لأي قونة، أو يزور مطعماً تروّج له قونة في هذه الأيام، عليه أن يتحسس إنسانيته. دعونا نُعبر عن حزننا بجدية، ولو لمرة واحدة&#8221;. كتبت هذا المنشور بعدما وقعت عيناي [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a5%d9%8a%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81-%d8%ad%d9%81%d9%84-%d9%81%d9%8a-%d8%b2%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%a2%d8%b3%d9%8a/\">إيمان الشريف.. حفل في زمن المآسي</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "584ed603c8d5f17e762c4a7e277ce20bd90eae67c8e0c348bbce82d042a5b793",
@@ -678,7 +1049,12 @@
       "published_at": "2026-10-19T09:08:12+00:00",
       "summary": "<p>د. صلاح أحمد الحبو ليس من السهل أن تقول الحقيقة في مجتمع أتقن فنون المجاملة حتى أصبحت الصراحة فيه ضرباً من سوء الأدب، والاختلاف خروجاً على مقتضيات الاحترام، والنقد اعتداءً على العلاقات. ففي بعض البيئات الاجتماعية لا تُقاس قيمة الكلام بمقدار صدقه، وإنما بقدرته على المحافظة على الود، ولو كان ذلك على حساب الحقيقة. وهكذا [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%85%d9%84%d8%a9-%d8%ad%d9%8a%d9%86-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d8%a9-%d8%b3%d9%84%d9%88%d9%83%d8%a7/\">مجتمع المجاملة: حين تصبح الحقيقة سلوكاً غير مهذب</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "3f9d33892a626aaf3863c4bd8f0acf47cedb84a608295b74a6906bc395fc7b10",
@@ -687,7 +1063,12 @@
       "published_at": "2026-10-19T09:06:48+00:00",
       "summary": "<p>الجريدة هذا الصباح&#8230;تجاهل أمريكا لحكومة بورتسودان يعني أن واشنطن إما أنها تنوي تنفيذ خطة بديلة، أو ستمارس ضغطاً أكبر لتحصل على موافقة بلا شروط وتعهدٍ بلا مراوغة.​أطياف​صباح محمد الحسن​تهميش​طيف أول:​ألقيتُ بقميصِ المِدادعلى وجهِ أوراقيفلم تُبصرألا ليتَ قلمي لم يعرف البكاءَ على الوطنلكانَ له السندَ وخفضَ له جناحَ الحنين!!​والمتابع للخطاب السياسي الأمريكي خلال أسبوع، ومقارنةً بخطاب [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%aa%d9%87%d9%85%d9%8a%d8%b4/\">تهميش</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "8f8527f06f6ad5e902d8d9fbce98bc5f09dec41c35559349835a4b5b606a63a6",
@@ -696,7 +1077,12 @@
       "published_at": "2026-10-19T09:04:32+00:00",
       "summary": "<p>دارفور بين سراب الانفصال وعقد المواطنة: لماذا يجب رفض تكرار منح حق تقرير المصير الانفصالي في السودان رفضًا مطلقًا ودائمًا، وكيف تُصان وحدة دارفور بالعدالة والتمثيل والحكم الذاتي الحقيقي في السودان الموحد د. عبد المنعم مختارأستاذ جامعي في مجال الصحة العامةالمدير العام للشركة الألمانية-السودانية للبحوث والاستشارات وبناء القدراتالمدير التنفيذي لمركز السياسات القائمة على الأدلة والبياناتmoniem.mukhtar@gmail.com [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%af%d8%a7%d8%b1%d9%81%d9%88%d8%b1-%d8%a8%d9%8a%d9%86-%d8%b3%d8%b1%d8%a7%d8%a8-%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b5%d8%a7%d9%84-%d9%88%d8%b9%d9%82%d8%af-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86/\">دارفور بين سراب الانفصال وعقد المواطنة</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "34dccc965616e04c2bba319affa6828e949c0ccc88b8b0e86fa82d01b40ac922",
@@ -705,7 +1091,12 @@
       "published_at": "2026-10-19T09:03:09+00:00",
       "summary": "<p>بقلم : تاج السر عثمان١بعد ذلك استمرت خطوات التراجع عن الثورة ، كما في خرق &#8220;الوثيقة الدستورية&#8221;، ، وعدم القصاص للشهداء في مجزرة فض الاعتصام وبقية الانتهاكات ، ونهج السلام في جوبا المخالف للوثيقة الدستورية في عدم تكوين المفوضية والاستعاضة عنها بمجلس السلام، ونهج المحاصصات بدلا عن الحل الشامل الذي يخاطب جذور المشكلة، والبطء في [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%81%d9%8a-%d8%b0%d9%83%d8%b1%d9%89-%d8%ab%d9%88%d8%b1%d8%a9-%d8%a7%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d8%ad%d8%aa%d9%89-%d9%84%d8%a7-%d8%aa%d8%aa%d9%83%d8%b1%d8%b1-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%a7/\">في ذكرى ثورة اكتوبر حتى لا تتكرر تجربة اندلاع الحرب (2/2)</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "a8bc8ea17e86d50736a45f9d860d1c67726e951d05d35be2392e0675d82d68ad",
@@ -714,7 +1105,12 @@
       "published_at": "2026-10-19T09:01:46+00:00",
       "summary": "<p>لم تعد الحرب في السودان تُقاس بعدد القتلى والنازحين، أو بحجم الدمار الذي طال المدن، بل أيضاً بعدد الأسر التي تعجز عن توفير وجبة يومية، والمزارعين الذين فقدوا القدرة على زراعة أراضيهم، والأطفال الذين يدفعون ثمن حرب لم يختاروها. فبين انهيار مصادر الدخل وارتفاع الأسعار وتعطل الإنتاج، تحولت الحرب إلى معركة يومية من أجل البقاء، [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%ad%d9%8a%d9%86-%d8%aa%d8%b5%d8%a8%d8%ad-%d9%84%d9%82%d9%85%d8%a9-%d8%a7%d9%84%d8%b9%d9%8a%d8%b4-%d9%85%d8%ba%d8%a7%d9%85%d8%b1%d8%a9-%d9%85%d8%ad%d9%81%d9%88%d9%81%d8%a9-%d8%a8%d8%a7%d9%84%d9%85/\">حين تصبح لقمة العيش مغامرة محفوفة بالموت: مأساة الشعب السوداني في زمن الحرب والفقر</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "1d4b4e4fbed08aeced5821386864e3041643c6e54600e780b87df01803e95b54",
@@ -723,7 +1119,12 @@
       "published_at": "2026-10-19T09:00:21+00:00",
       "summary": "<p>السلام يغشاك يا امتنان، قبل وبعد، بس في البداية عايز اقول ليك عندي مشروع عبارة عن محاولة احياء كتابة الرسائل، تلك السنهالتي كانت حبل السرة الذي يربط بين الأحبابقبل ان تهدها فيضانات الحداثة الالكترونية..وقعدت مع نفسي قلت احاول ان أراسل هذهالبنت الواعية ودارسة الكتاب علني أحرك فيها سكون المراسلة.. وقديماً كان اهلنا بقولوا انه الجواب [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d9%84%d9%84%d8%a7%d8%ad%d8%a8%d8%a7%d8%a8-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d9%84%d9%84%d8%a7%d8%a8%d9%86%d8%a9-%d8%a7%d9%85%d8%aa%d9%86%d8%a7%d9%86-%d9%85%d8%ad%d9%85/\">رسائل للاحباب: رسالة للابنة امتنان محمد خير</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "3cb14214d71304894f8fa26491b6fbcca1c142accef57c1080a68a1149ed5ca1",
@@ -732,7 +1133,12 @@
       "published_at": "2026-10-19T08:58:35+00:00",
       "summary": "<p>بقلم: أمين محمد الجاك عامر المحامي في الأيام الثلاثة الأولى لعودتي الطوعية إلى البلاد، التي بدأت ملامحها توحي بأن الحياة تستعيد عافيتها وأن مدني تمضي نحو الاستقرار وتودع ايام الحرب، قررت أن أذهب إلى السوق، وألقي التحية والسلام على بعض الناس، ثم أزور إخواني وأصدقائي من المحامين في المكاتب المجاورة لمكتبي. وأثناء وجودي بمكتب الأستاذ [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d9%86-%d9%88%d9%81%d8%b1%d8%a9-%d8%a7%d9%84%d9%84%d8%ad%d9%85%d8%a9-%d8%a7%d9%84%d9%8a-%d9%85%d8%b3%d9%83%d9%88%d9%84-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%ad%d9%83%d8%a7%d9%8a%d8%a9-%d8%a8%d9%84/\">من وفرة اللحمة الي مسكول اليوم حكاية بلد تتبدل أحواله</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "84d8d249d18b296f23400df5de1daafd3ad749517ac069a76ccc0093be370bf6",
@@ -741,7 +1147,12 @@
       "published_at": "2026-10-19T08:57:12+00:00",
       "summary": "<p>المصدر:أحمد بن أبي يعقوب اليعقوبي. كتاب البلدان. تحقيق دي خويه. ليدن: بريل، 1892. ص342.النص: سواكن مرسىالدليل: ذكر قبلها: وبلاد البجة على ساحل البحر المصدر: المصدر: المصدر: المصدر الميداني: قائمة المصادر النهائية &#8211; المحققة فقط: الملحق:سلاطين وأمراء ونظار وعمد الأرتيقة الذين تعاقبوا على سدة الإدارة الأهلية في سواكن منذ فترة حكم المماليك في مصر وساحل البجا.. [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9-%d8%b3%d9%88%d8%a7%d9%83%d9%86-%d9%85%d9%84%d9%83-%d9%84%d9%84%d8%a8%d8%ac%d8%a7-%d8%a7%d9%84%d8%a3%d8%b1%d8%aa%d9%8a%d9%82%d8%a7-%d8%a7%d9%84%d8%ad%d8%af%d8%a7%d8%b1/\">جزيرة سواكن ملك للبجا الأرتيقا الحداربة &#8211; أمراء الجزيرة &#8211; من 891 م حتى اليوم</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "4d1fcad7132048e524b39615319e0e953f9588bbb790ecf27047da6f99d49fe1",
@@ -750,7 +1161,12 @@
       "published_at": "2026-10-19T08:55:35+00:00",
       "summary": "<p>زين العابدين صالح عبد الرحمنجاء المفكر المغربي محمد عابد الجابري في بداية مشروعه الفكري بمصطلحين &#8221; الكتلة التاريخية – الطليعة&#8221; و هي ترجع للثقافة اليسارية &#8221; الماركسية – القومية&#8221; و تعتبر هي الأدوات التي يمكن أن تحدث تغييرا سياسيا . لكن الخطوة نفسها تحتاج إلي تيارات فاعلة أجتماعيا، و نخبة قادرة على إنتاج فكر يتواكب [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d8%b9%d8%a7%d8%af%d9%84%d8%a9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%88%d8%a7%d9%84%d8%a3%d8%ad%d8%b2%d8%a7%d8%a8-%d9%81%d9%8a-%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%b3%d9%88%d8%af/\">معادلة الجيش والأحزاب في مستقبل السودان</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "3a9a430f9063a3be06a2cbe82d728ea677cdc46654f9f6abb5bf5b2bad5e948f",
@@ -759,7 +1175,12 @@
       "published_at": "2026-10-19T08:53:00+00:00",
       "summary": "<p>(CNN)&#8211; قالت وزارة الأمن الداخلي الأمريكية، إنه من المتوقع السماح للمهاجرين من أوكرانيا والسودان بمواصلة العيش والعمل في الولايات المتحدة في الوقت الراهن، بعدما كان من المقرر أن تنتهي هذا الأسبوع الحماية التي تحول دون ترحيلهم. ويعتبر وضع الحماية المؤقتة (TPS) شكلا من أشكال الإغاثة الإنسانية التي تُوفر للأشخاص الفارين من الحروب أو الكوارث الطبيعية [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%aa%d8%b5%d8%af%d8%b1-%d9%82%d8%b1%d8%a7%d8%b1%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d8%a7-%d8%a8%d8%b4%d8%a3%d9%86-%d8%a7%d9%84%d9%85%d9%87/\">إدارة ترامب تصدر قرارا جديدا بشأن المهاجرين من السودان وأوكرانيا</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "e4f44951d834df5ea802671c16bd7f75a278570185f5b9092bfc692e2d05ee2e",
@@ -768,7 +1189,12 @@
       "published_at": "2026-10-18T20:05:23+00:00",
       "summary": "<p>سودانايل: اقترب الهلال من التأهل لدور المجموعات من دوري أبطال أفريقيا وذلك بعد فوزه المستحق على سيداما بونا الإثيوبي في عقر داره بهدفين دون مقابل في المباراة التي جمعت بينهما عصر اليوم الأحد بأثيوبيا ضمن ذهاب دور الـ32 من بطولة دوري أبطال إفريقيا أحرز هدفي الهلال مدافع الفريق الاثيوبي في مرماه في الدقيقة 11 وأضاف [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d9%8a%d9%87%d8%b2%d9%85-%d8%b3%d9%8a%d8%af%d8%a7%d9%85%d8%a7-%d8%a8%d9%88%d9%86%d8%a7-%d8%a7%d9%84%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a-%d9%81%d9%8a-%d8%b9%d9%82/\">الهلال يهزم سيداما بونا الإثيوبي في عقر داره ويقترب من الـتأهل لدور المجموعات .. المريخ يخسر من حوريا كوناكري الغيني خارج الديار</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "37e61948b2ce2154a7efeeba218136ea1ee73948467dcbf0367d4444e286ea6c",
@@ -777,7 +1203,12 @@
       "published_at": "2026-10-18T18:24:44+00:00",
       "summary": "<p>من أسوأ الأشياء أن يستعبدك العبيد. العبيد لايرون غضاضة في الظلم والبطش طالما هم ليسوا في الطرف المتلقي . وقد يمارسون ما مورس عليهم بتلذذ واتقان . المجرمون الذين اطلق سراحهم من السجون لمرافقة كريستوفر كولومبوس الى العالم الجديد مارسوا ابشع أنواع العقاب على الهنود الحمر من الاستعباد في المناجم، قطع الاطراف والقتل.مصر مثل اغلب [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a8%d8%b9%d8%af-%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%a7%d9%84%d9%85%d8%b9%d8%af%d9%86%d9%8a%d9%86-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d9%8a%d9%86-%d9%88%d8%ae%d9%86%d9%88%d8%b9-%d8%a7/\">بعد مأساة المعدنين السودانيين وخنوع الحكومة السودانية ، لم يبقى سوى مواصلة الحرب ضد الاستعمار المصري</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "190422d11bb30f48c8f60f531539e9095805d69e8ed093e672225e654c5d48cc",
@@ -786,7 +1217,12 @@
       "published_at": "2026-10-18T18:19:54+00:00",
       "summary": "<p>زهير عثمان حمد يمكنُ أن تُقرَأَ حياةُ المتمرّدِ لا من سِجلّ خُطواتهِ، بل من رُكامِ ما يطرحُهُ وراءَ ظهرِهِ. إنّهُ يُشيّدُ كينونَتَهُ على الهَدم- يرفضُ الوظيفةَ التهامِيّة، والنّواةَ العائليةَ المُستنسَخة، والنسلَ المَورُوث، والاجتماعَ القائمَ على التملّق، واعتزالاً يحرسُ حُريّتَهُ خلفَ بابٍ مَغلق. لكنّ المَرفوضَ الأكبرَ لديهِ ليس نظاماً بعينِه، بل (النموذج الحديثةُ للإنسانِ الناجح )—ذاكَ [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%b9%d8%a7%d9%84%d9%85%d9%8c-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d9%8e%d8%b1%d9%81%d9%88%d8%b6%d8%a7%d8%aa-%d8%ad%d9%8a%d9%86%d9%8e-%d8%aa%d9%8f%d9%82%d8%af%d9%91%d8%b3%d9%8f-%d8%a7%d9%84%d9%81%d9%88/\">عالمٌ من المَرفوضات- حينَ تُقدّسُ الفوضى هرباً من صَنَمِ الإنجاز</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "65f1492365c7db9e87bd24c9ce0cf4c69f3ae95a1b45188834d93ea7ffcae9df",
@@ -795,7 +1231,12 @@
       "published_at": "2026-10-18T18:18:12+00:00",
       "summary": "<p>مناظير الاحد 18 أكتوبر، 2026زهير السرَّاجmanazzeer@yahoo.com</p> <p>The post <a href=\"https://sudanile.com/%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a8%d9%84%d8%a7-%d8%a3%d8%b3%d9%86%d8%a7%d9%86/\">بيانات بلا أسنان!</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "9c047bb746d7ed14fce787e80c63e470ae7829cbc87363c6bbbe6c4f12e78fff",
@@ -804,7 +1245,12 @@
       "published_at": "2026-10-18T18:15:01+00:00",
       "summary": "<p>ضد الانكسارأمل أحمد تبيديمدخلقالها لي كوان يو باني سنغافورة:(ابعاد الكفاءات هو انتحار بطيء للدولة) مؤسف ما يحدث في إدارة الدولة ومخجل اننا نعيد نفس الأخطاء بنفس الوجوه وننتظر نتائج مختلفة،ولاية الخرطوم مثل سائر الولايات المنكوبة إلتى دفع أهلها ثمن الحرب كاملا، كان هناك والي صمد لم يغادر الخرطوم كما غادر الكثيرون ،لم يحزم حقائبه الي [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%88%d8%b7%d9%86-%d8%a8%d9%84%d8%a7-%d8%a8%d9%88%d8%b5%d9%84%d8%a9-%d8%a8%d9%8a%d9%86-%d8%aa%d8%af%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%81%d8%b4%d9%84-%d9%88%d8%a7%d8%ba%d8%aa%d9%8a%d8%a7%d9%84-%d8%a7/\">وطن بلا بوصلة بين تدوير الفشل واغتيال الكفاءة</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "52fc6c610db9cc8ee76e562def619481e0d5a6daa2b5d3d8552f51c74685112c",
@@ -813,7 +1259,12 @@
       "published_at": "2026-10-18T18:13:08+00:00",
       "summary": "<p>بقلم: أواب عزام البوشي تأتي رسالة الفريق أول عبد الفتاح البرهان إلى الرئيس الأمريكي دونالد ترامب، التي أكد فيها استعداده للسلام، في توقيت بالغ الحساسية بالنسبة إلى مستقبل السودان. فالبلد يعيش تحت وطأة حرب مدمرة، وأزمة إنسانية غير مسبوقة، وضغوط دولية متصاعدة، وانهيار اقتصادي يضيق الخناق على القيادة العسكرية ويزيد كلفة استمرار الحرب. ولذلك، لا [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%87%d9%84-%d8%aa%d9%85%d8%ab%d9%84-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a8%d8%b1%d9%87%d8%a7%d9%86-%d8%aa%d8%ad%d9%88%d9%84%d9%8b%d8%a7-%d9%86%d8%ad%d9%88-%d8%a7%d9%84%d8%b3%d9%84%d8%a7/\">هل تمثل رسالة البرهان تحولًا نحو السلام، أم محاولة لاحتواء الضغوط الدولية وإنقاذ مساره السياسي والعسكري؟</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "796ae524afa1a147594bc5c67f0484533b34fddf4e41910ce8bd5f071e721abb",
@@ -822,7 +1273,12 @@
       "published_at": "2026-10-18T18:11:11+00:00",
       "summary": "<p>بقلم :امين محمد الجاك عامر المحامي بالأمس، ولأول مرة منذ عودتي إلى ود مدني، خرجت من المنزل مساءً، ملتزمًا بجدول توزيع الكهرباء الذي حاولنا أن نكيّف حياتنا وحركتنا اليومية وفقًا له. غير أن الجدول لم يُنفَّذ كما هو معلن، وهو ما يعيد إلى الواجهة أهمية إخطار المواطنين مسبقًا بأي مستجدات تحول دون الالتزام به. ومع [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d8%af%d9%86%d9%8a-%d9%84%d9%8a%d9%84%d9%8b%d8%a7-%d9%86%d8%b3%d9%85%d8%a9-%d8%a7%d9%84%d9%86%d9%8a%d9%84-%d9%88%d8%a3%d9%85%d9%84-%d8%a7%d9%84%d8%b9%d9%88%d8%af%d8%a9/\">مدني ليلًا.. نسمة النيل وأمل العودة</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "1fe9a24f799e588fd48381d7550db34704c6b0e0349ddeae6ea583b567063d76",
@@ -831,7 +1287,12 @@
       "published_at": "2026-10-18T18:09:27+00:00",
       "summary": "<p>الملتقي العربي للفكر والحوار في ندوته بعد يومين عبر تقنية ( الزوم ) من برلين يقدم المفكر السوداني الدكتور الشفيع خضر سعيد في ندوة حوارية بعنوان ( من الثورة الي الحرب ، السودان الي اين ؟! نتمني أن نجد في الندوة الجديد والمفيد خاصة وأن المتحدث الرئيسي فيها هو الدكتور الشفيع خضر سعيد وقد عرف [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d9%85%d9%84%d8%aa%d9%82%d9%8a-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%84%d9%84%d9%81%d9%83%d8%b1-%d9%88%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1/\">الملتقي العربي للفكر والحوار</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "7617a681d3cf25f848f81495e028df03070a6fed4305b67d647a00333d3f11cb",
@@ -840,7 +1301,12 @@
       "published_at": "2026-10-18T18:07:18+00:00",
       "summary": "<p>عبد الله علي إبراهيم ليس من قانون أو عرف يمنع جيشاً ما من توظيف خدمات الميليشيات لمواجهة التحديات التي يلقاها ملخص (ليس بمهتدٍ إلى سواء سبيل من وصف قوات &#8220;الدعم السريع&#8221; بـ&#8221;ميليشيات&#8221; مثل قول &#8220;صمود&#8221; إن دولة الإنقاذ مباءة استيلاد للميليشيات القبلية لغاياتها الأمنية التي انتهت بنا إلى مثل &#8220;الدعم السريع&#8221;. وغاب عنهم أن &#8220;الدعم [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d9%87%d8%b1%d8%ac-%d9%86%d8%ad%d9%88-%d8%b6%d8%a8%d8%b7-%d9%84%d9%85%d8%b5%d8%b7%d9%84%d8%ad-%d8%a7%d9%84%d9%85%d9%84%d9%8a%d8%b4%d9%8a%d8%a7/\">الحوار والهرج: نحو ضبط لمصطلح &#8220;المليشيا&#8221;</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "6e02c0e5a0cbc8c8a2c7d31757da14e9ee98516dafeb2baf3f81832fbff62399",
@@ -849,7 +1315,12 @@
       "published_at": "2026-10-18T18:05:50+00:00",
       "summary": "<p>بقلم : تاج السر عثمان1أشرنا في مقال سابق إلى دروس وتجربة انتكاسة ثورة أكتوبر 1964&#8242; وضرورة الاستفادة منها &#8216; ونعيد نشر هذه الدراسة بعنوان &#8221; حتى لا تتكرر تجربة اندلاع الحرب&#8221; الذي نشر في موقع سودانايل بتاريخ ٢٣ أغسطس ٢٠٢٣ &#8221; الذي تناول دورس وأسباب انتكاسة ثورة ديسمبر حتى اندلاع الحرب اللعينة الجارية حاليا.٢الحرب التي [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%81%d9%8a-%d8%b0%d9%83%d8%b1%d9%89-%d8%ab%d9%88%d8%b1%d8%a9-%d8%a7%d9%83%d8%aa%d9%88%d8%a8%d8%b1-%d9%a1%d9%a9%d9%a6%d9%a4-%d8%ad%d8%aa%d9%89-%d9%84%d8%a7-%d8%aa%d8%aa%d9%83%d8%b1%d8%b1-%d8%aa%d8%ac/\">في ذكرى ثورة اكتوبر ١٩٦٤ حتى لا تتكرر تجربة اندلاع الحرب (1/2)</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "b9b85cfa38092ebb2e256061c18b372f14dafd99705386560ced1ab1f782faee",
@@ -858,7 +1329,12 @@
       "published_at": "2026-10-18T17:51:28+00:00",
       "summary": "<p>حين تصنع الدولة وكلاءها ثم تعجز عن كبحهم: أربعة عقود من تسليح القبائل في السودان، من المراحيل وميليشيات الجنوب إلى مجازر الجنينة والفاشر د. عبد المنعم مختارأستاذ جامعي في مجال الصحة العامةالمدير العام للشركة الألمانية-السودانية للبحوث والاستشارات وبناء القدراتالمدير التنفيذي لمركز السياسات القائمة على الأدلة والبياناتmoniem.mukhtar@gmail.com الملخص يتناول تاريخ الميليشيات والقوات شبه العسكرية في السودان [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%ad%d9%8a%d9%86-%d8%aa%d8%b5%d9%86%d8%b9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a9-%d9%88%d9%83%d9%84%d8%a7%d8%a1%d9%87%d8%a7-%d8%ab%d9%85-%d8%aa%d8%b9%d8%ac%d8%b2-%d8%b9%d9%86-%d9%83%d8%a8%d8%ad%d9%87/\">حين تصنع الدولة وكلاءها ثم تعجز عن كبحهم</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "aadfc4fd7ade4585d0abe57828cfff90f86715df22a2107c4aa2180c7dd318b0",
@@ -867,7 +1343,12 @@
       "published_at": "2026-10-18T17:49:57+00:00",
       "summary": "<p>بقلم: د. محمد بدوي مصطفى قرأت مقال السيد أسامة فوزي المعنون &#8220;السر في انشغال العرب بالأعضاء التناسلية&#8221;، وهو نص قديم أعيد نشره حديثا في أكثر من موقع. قرأته مرة، فضحكت من بعض مفارقاته، ثم توقفت عنده طويلا، لا بسبب ما فيه من غرابة، وإنما بسبب الطريقة التي تتحول بها بعض الحقائق الصغيرة إلى أحكام كبيرة [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%ac%d8%b3%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d9%85%d8%a7-%d9%88%d8%b1%d8%a7%d8%a1-%d8%a7%d9%84%d9%83/\">لغة الجسد في التراث العربي.. ما وراء الكلمات! (١)</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "07b351dfc8f004603536d530fd4593d14d49aa6e579964b120ed47ed8ef4b004",
@@ -876,7 +1357,12 @@
       "published_at": "2026-10-18T17:48:16+00:00",
       "summary": "<p>عندما كانت العبودية شائعة في أمريكا، كونت &#8220;هاريت تبمن&#8221; مجموعة سرية لإنقاذ العبيد من العبودية، وهي مناضلة أمريكية من اصل افريقي وناشطة مكافحة ضد الرق، ولدت بداية القرن السابع عشر وتوفيت أوائل القرن الثامن عشر، استطاعت تحرير اكثر من 700 عبد، فيما بعد سألوها: ما هي اصعب خطوة واجهتك؟، قالت: أن أقنع شخصاً بأنه ليس [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d9%86-%d9%8a%d8%ad%d8%b1%d8%b1-%d8%b9%d8%a8%d9%8a%d8%af-%d8%a7%d9%84%d8%ae%d8%af%d9%8a%d9%88%d9%8a%d8%a9-%d9%88%d9%85%d9%86-%d9%8a%d8%ad%d8%b1%d8%b1-%d8%b9%d8%a8%d9%8a%d8%af%d9%87%d9%85/\">من يحرر عبيد الخديوية ومن يحرر عبيدهم</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "f3dcea45ec370c75f77c968c1d5db974c4237404056c051e3543d71c9f8a5c48",
@@ -885,7 +1371,12 @@
       "published_at": "2026-10-18T17:46:44+00:00",
       "summary": "<p>د.فراج الشيخ الفزاري نظامان أثبتا صلاحيتهما في السودان،الحكم المحلي ،بتعدد مسمياته، ممثلا في المديريات ، المحافظات والمجالس البلدية والريفية.وكذلك الإدارة الأهلية ممثلة في النظارات والعمد وشيوخ الخط.وكنت أكتب وأخاطب وأقول دائما،بأن الهزة الأخيرة التي أصابت أمن وانسان السودان ،جراء هذه الحرب اللعينة،كان تأثيرها سيكون أكثر كارثية وقسوة وخطورة علي البلاد، لو لا وجود المجالس البلدية [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d8%b9%d9%88%d8%af%d8%a9-%d8%a5%d9%84%d9%8a-%d8%a7%d9%84%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%ad%d9%83%d9%85-%d8%a7%d9%84%d9%85/\">العودة إلي الإدارة الأهلية والحكم المحلي</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "a28da2f14ecb20758ac956f2f19278cebf23d6639de56cd95cda4099a8d8bd6d",
@@ -894,7 +1385,12 @@
       "published_at": "2026-10-18T17:45:24+00:00",
       "summary": "<p>الجريدة هذا الصباح..هذه الخطوة قد تساهم في انتقال جزء من إدارة الملف الإنساني من دائرة سيطرة الحكومة المركزية ، إلى ترتيبات تفرضها الوقائع الميدانية على الأرض.​أطيافصباح محمد الحسنمسار جوي​طيف أول:سيمر من بعدك فصلٌ جديد لا نعرفه،قد تجهله حتى نوافذنا !!​وتقدمت الولايات المتحدة الأمريكية إلى مجلس الأمن الدولي بطلب لتمكين عمال الإغاثة من الوصول جواً إلى [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d9%85%d8%b3%d8%a7%d8%b1-%d8%ac%d9%88%d9%8a/\">مسار جوي</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
     },
     {
       "id": "3121df727f4afbb3c0813cfb0b1cf01d96b98dd456ca1894d955b0941646bc23",
@@ -903,8 +1399,517 @@
       "published_at": "2026-10-18T17:42:49+00:00",
       "summary": "<p>الطيبة السودانية: فطرة متجذّرة أم هوية متغيّرة؟تأليف: د. محمد عبد الله عيساوي**عرض وتعليق: د. عادل عبد العزيز حامد الكتاب من إصدارات دار الأصالة للصحافة والنشر والإنتاج الإعلامي لسنة ٢٠٢٦ .يتناول كتاب الطيبة السودانية: فطرة متجذّرة أم هوية متغيّرة؟»* مفهوم الطيبة التي اشتهر بها الشعب السوداني، ويطرح المؤلف سؤالًا جوهريًا: هل هذه الطيبة فطرة أصيلة ومتجذّرة [&#8230;]</p> <p>The post <a href=\"https://sudanile.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d8%a9-%d9%81%d8%b7%d8%b1%d8%a9-%d9%85%d8%aa%d8%ac%d8%b0%d9%91%d8%b1%d8%a9-%d8%a3%d9%85-%d9%87%d9%88%d9%8a%d8%a9/\">الطيبة السودانية: فطرة متجذّرة أم هوية متغيّرة؟</a> appeared first on <a href=\"https://sudanile.com\">سودانايل</a>.</p>",
       "source_feed": "https://sudanile.com/feed",
-      "verification_status": "unverified"
+      "verification_status": "unverified",
+      "freshness_status": "recent",
+      "age_days": 1,
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules"
+    },
+    {
+      "id": "e1819f82a14dbb319fdefc1f7273d83bd94161f7bed6d9dddccdf8871072fc4b",
+      "title": "الاقْتِصَادُ السِيَاسِيُ للتَسْوِيفِ الدِبْلوْمَاسِي: مَنْ يَرْبَحُ الوَقْتَ وَمَنْ يَدْفَعُ ثَمَنَهُ فِي حَرْبِ السُوْدَانِ؟",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%a7%d9%82%d9%92%d8%aa%d9%90%d8%b5%d9%8e%d8%a7%d8%af%d9%8f-%d8%a7%d9%84%d8%b3%d9%90%d9%8a%d9%8e%d8%a7%d8%b3%d9%90%d9%8a%d9%8f-%d9%84%d9%84%d8%aa%d9%8e%d8%b3%d9%92%d9%88%d9%90%d9%8a%d9%81/",
+      "published_at": "2026-10-20T10:15:52+00:00",
+      "summary": "الاقْتِصَادُ السِيَاسِيُ للتَسْوِيفِ الدِبْلوْمَاسِي: مَنْ يَرْبَحُ الوَقْتَ وَمَنْ يَدْفَعُ ثَمَنَهُ فِي حَرْبِ السُوْدَانِ؟ The Political Economy of Diplomatic Procrastination: Who Gains Time and Who Pays the Price in Sudan’s War? بروفيسور مكي مدني الشبليالمدير التنفيذي المؤسس لمركز الدراية للدراسات الاستراتيجية هل أصبحت الدبلوماسية الدولية وسيلة لشراء الوقت من أجل السلام، أم أن الحرب السودانية باتت […] The post الاقْتِصَادُ السِيَاسِيُ للتَسْوِيفِ الدِبْلوْمَاسِي: مَنْ يَرْبَحُ الوَقْتَ وَمَنْ يَدْفَعُ ثَمَنَهُ فِي حَرْبِ السُوْدَانِ؟ appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "d3419a55f094bd74bea3331beab0c23737fc3e898bda7e272a4cfbab1f2d586a",
+      "title": "هَـمـسُ الـذَّاكِــرة .. في ذكرى 21 أكتوبر 1964",
+      "url": "https://sudanile.com/%d9%87%d9%8e%d9%80%d9%85%d9%80%d8%b3%d9%8f-%d8%a7%d9%84%d9%80%d8%b0%d9%8e%d9%91%d8%a7%d9%83%d9%90%d9%80%d9%80%d8%b1%d8%a9-%d9%81%d9%8a-%d8%b0%d9%83%d8%b1%d9%89-21-%d8%a3%d9%83%d8%aa%d9%88%d8%a8/",
+      "published_at": "2026-10-20T10:14:23+00:00",
+      "summary": "جمال محمد ابراهيمهاأنت في عامك الأوَّل في المدرسة الثـانوية، تتردَّد خطاك بين طفــولة فـيمغيبها، ومراهقة تتحايل أنْ تهلّ عليك في إشراقها. ثمّة أسئلة تراوح مكانها في ذهـنك الصبيِّ ، تكاد حيرتك حـولـها انْ تهدّ كتفـيــك . لم يكن تغيير مدرســتك محضَ خروج من مرحلةٍ إلى مرحلة. كنتَ في ”مدرسة النهضة الوسطى“ جنوبي ”جامع الخليفة“، وقبالة […] The post هَـمـسُ الـذَّاكِــرة .. في ذكرى 21 أكتوبر 1964 appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "011c0a01e5cc967ec039f98f452c793a9d35cdaf193fc301c45dd3de7cf70091",
+      "title": "بدء العد التنازلي للبرهان فقد ازفت الازفة ؟",
+      "url": "https://sudanile.com/%d8%a8%d8%af%d8%a1-%d8%a7%d9%84%d8%b9%d8%af-%d8%a7%d9%84%d8%aa%d9%86%d8%a7%d8%b2%d9%84%d9%8a-%d9%84%d9%84%d8%a8%d8%b1%d9%87%d8%a7%d9%86-%d9%81%d9%82%d8%af-%d8%a7%d8%b2%d9%81%d8%aa-%d8%a7%d9%84%d8%a7/",
+      "published_at": "2026-10-20T10:10:33+00:00",
+      "summary": "عبدالله يوسف حمدالنيل Abdallhmad1951@gmail.com في يوم الخميس 15 اكتوبر 2026 ، بعث الرئيس البرهان برسالة إلى الرئيس الأمريكي ترامب، معرباً عن التزام السودان بجهود تحقيق السلام التي ترعاها الولايات المتحدة … بدون دخول الرسالة في اي تفاصيل ؟ اتت التفاصيل لرسالة الرئيس البرهان في يوم الجمعة 16 اكتوبر 2026 . في يوم الجمعة 16 اكتوبر […] The post بدء العد التنازلي للبرهان فقد ازفت الازفة ؟ appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "1350b4d796ced3b8376d8508fba4798f8d03cf5f041732d900e90d7d1bdbd88e",
+      "title": "كم “كيلة” سمسم وكم “شوال” عيش لأهل السودان بذمة البرهان و زمرة الفساد؟!",
+      "url": "https://sudanile.com/%d9%83%d9%85-%d9%83%d9%8a%d9%84%d8%a9-%d8%b3%d9%85%d8%b3%d9%85-%d9%88%d9%83%d9%85-%d8%b4%d9%88%d8%a7%d9%84-%d8%b9%d9%8a%d8%b4-%d9%84%d8%a3%d9%87%d9%84-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7/",
+      "published_at": "2026-10-20T10:08:51+00:00",
+      "summary": "الثبات الذي أظهره الصبي الشهيد الطيب الهادي؛ الذي راح ضحية الاعتداء المصري الجوي الغاشم؛ أحيا تاريخ البطولة السودانية في مواجهة الشدائد، و في مواجهة الموت نفسه، تاريخ “عبدالقادر ودحبوبة” و عبدالفضيل الماظ و تاريخ “عبدالخالق والشفيع وجوزيف” و “وبابكر وفاروق وهاشم”، تاريخ محمد نور سعد، ومحمود محمد طه، وتاريخ “خالد الزين و الكدرو ومحمد عثمان […] The post كم “كيلة” سمسم وكم “شوال” عيش لأهل السودان بذمة البرهان و زمرة الفساد؟! appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "9bbe541660076e5e12b93f9682a9efe39875e033db54e00bea7ce3df402932bd",
+      "title": "السودان بين خطر التفكك وفرصة إعادة بناء الدولة",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%a8%d9%8a%d9%86-%d8%ae%d8%b7%d8%b1-%d8%a7%d9%84%d8%aa%d9%81%d9%83%d9%83-%d9%88%d9%81%d8%b1%d8%b5%d8%a9-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a8%d9%86%d8%a7/",
+      "published_at": "2026-10-20T10:06:58+00:00",
+      "summary": "دكتور محمد عبدالله لم يعد النظام الدولي كما كان عليه بعد انتهاء الحرب الباردة. فقد تراجعت قدرة الولايات المتحدة على الانفراد بتحديد قواعده، بينما عززت الصين حضورها الاقتصادي والتكنولوجي، وسعت قوى أخرى، من الهند إلى تركيا ودول الخليج، إلى توسيع نفوذها. غير أن تعدد مراكز القوة لا يعني بالضرورة قيام نظام أكثر عدلاً؛ فقد يفضي […] The post السودان بين خطر التفكك وفرصة إعادة بناء الدولة appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "40764815eb53db79cc8761cf3fa0f34d099c4ac9ac7011157330ee766d463af6",
+      "title": "حين تأكل الحركة أبناءها- تشخيص تحليلي لأزمة التنظيم الإسلامي في السودان",
+      "url": "https://sudanile.com/%d8%ad%d9%8a%d9%86-%d8%aa%d8%a3%d9%83%d9%84-%d8%a7%d9%84%d8%ad%d8%b1%d9%83%d8%a9-%d8%a3%d8%a8%d9%86%d8%a7%d8%a1%d9%87%d8%a7-%d8%aa%d8%b4%d8%ae%d9%8a%d8%b5-%d8%aa%d8%ad%d9%84%d9%8a%d9%84%d9%8a-%d9%84/",
+      "published_at": "2026-10-20T10:05:30+00:00",
+      "summary": "زهير عثمان ليست التنظيمات السياسية الكبرى محصّنة ضد الانهيار لمجرد أنها امتلكت السلطة طويلًا، ولا تصبح عصية على التفكك لأنها نجحت في اختراق مؤسسات الدولة وإقامة شبكات واسعة من المصالح والنفوذ , فالتاريخ السياسي يعلمنا أن لحظة الضعف الحقيقية لا تبدأ بالضرورة عندما يفقد التنظيم الحكم، وإنما حين يفقد قدرته على إدارة تناقضاته الداخلية، ويعجز […] The post حين تأكل الحركة أبناءها- تشخيص تحليلي لأزمة التنظيم الإسلامي في السودان appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "7912a7f3e9ae98d007bb81baa03aaccfbffb5cb3561139fc9df80a606daa0037",
+      "title": "نحن وإثيوبيا والسودان.. عن التاريخ والذاكرة والمستقبل",
+      "url": "https://sudanile.com/%d9%86%d8%ad%d9%86-%d9%88%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a%d8%a7-%d9%88%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae-%d9%88%d8%a7%d9%84%d8%b0/",
+      "published_at": "2026-10-20T10:04:00+00:00",
+      "summary": "أماني الطويل –أكتوبر 14, 2026 يصعب فهم العلاقة المصرية الإثيوبية الراهنة إذا اختُزلت في أزمة سد النهضة، كما يصعب تفسيرها باعتبارها خلافًا فنيًا بين دولة مصب ودولة منبع حول مورد مائي مشترك. فالعلاقة بين القاهرة وأديس أبابا تشكلت عبر طبقات متراكمة من التاريخ والجغرافيا والدين والحروب والتنافس على البحر الأحمر والنيل، ثم دخلت عليها منذ […] The post نحن وإثيوبيا والسودان.. عن التاريخ والذاكرة والمستقبل appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "3471f63248879e1c134985dfd6a556b1ab079fbb681ec36de9ddc04c25bffee4",
+      "title": "تعقيبنا على تعقيب الدكتور أمين حامد زين العابدين بشأن ردنّا على نقده لفكر محمود محمد طه",
+      "url": "https://sudanile.com/%d8%aa%d8%b9%d9%82%d9%8a%d8%a8%d9%86%d8%a7-%d8%b9%d9%84%d9%89-%d8%aa%d8%b9%d9%82%d9%8a%d8%a8-%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%a3%d9%85%d9%8a%d9%86-%d8%ad%d8%a7%d9%85%d8%af-%d8%b2%d9%8a-2/",
+      "published_at": "2026-10-20T10:02:26+00:00",
+      "summary": "تعقيبنا على تعقيب الدكتور أمين حامد زين العابدين بشأن ردنّا على نقده لفكر محمود محمد طه في كتابه: الإسلام المعاصر وتحدي الحداثة(4-2)بقلم الدكتور عبدالله الفكي البشير “وأما الدكتور مصطفي محمود فقد جاء ببضاعة مزجاة، فجازت على مستهلكين لا يحسنون التمييز.. هذا سبب.. والسبب الثاني هو: (عقدة الأجانب).. فإننا نحن السودانيين، لطول ما رزئنا به من […] The post تعقيبنا على تعقيب الدكتور أمين حامد زين العابدين بشأن ردنّا على نقده لفكر محمود محمد طه appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "c8533de41ce5182688a47b669628010fd256e8aea0e11da233e629479be26eca",
+      "title": "السودان: سبعة أشهر حاسمة لتدارك المجاعة القادمة",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d8%b3%d8%a8%d8%b9%d8%a9-%d8%a3%d8%b4%d9%87%d8%b1-%d8%ad%d8%a7%d8%b3%d9%85%d8%a9-%d9%84%d8%aa%d8%af%d8%a7%d8%b1%d9%83-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d8%b9/",
+      "published_at": "2026-10-20T10:00:08+00:00",
+      "summary": "بسم الله الرحمن الرحيم د. محمد المنير أحمد صفي الدين(خبير في تحليل وإدارة السياسات العامة)الوضع الكارثي في أكتوبر 2026منذ اندلاع الحرب في أبريل 2023، انزلق السودان إلى دوامة اقتصادية ومعيشية خانقة، لكن شهر أكتوبر 2026 مثّل الذروة الأسوأ لهذه الأزمة، حيث بلغ مستوى المعيشة حدًا كارثيًا غير مسبوق في تاريخ البلاد الحديث. ولإدراك حجم المأساة، […] The post السودان: سبعة أشهر حاسمة لتدارك المجاعة القادمة appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "0343ee6a62e2919d9d7ec58c0c1f734020b2c9f15dedb88bd75e207130e657b0",
+      "title": "سِجن فُندقي في إنتظار مسرح الحرب : مأزق تحالُف بورتسودان المُسلّح بين غياب الفاعلية وسيناريوهات التصدُع (1-3)",
+      "url": "https://sudanile.com/%d8%b3%d9%90%d8%ac%d9%86-%d9%81%d9%8f%d9%86%d8%af%d9%82%d9%8a-%d9%81%d9%8a-%d8%a5%d9%86%d8%aa%d8%b8%d8%a7%d8%b1-%d9%85%d8%b3%d8%b1%d8%ad-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8-%d9%85%d8%a3%d8%b2%d9%82/",
+      "published_at": "2026-10-20T09:55:58+00:00",
+      "summary": "زرياب عوض الكريم (أ) صديً لحيثيات صراع القوى المركنتلية – الإستيطانية الحديثة على الريف السُوداني تحالُف (بورتسودان) الطبقي المُسلح ، كتحالُف فلاحي – طبيعي peasantry alliance. وتحالف سياسي تكتيكي في ذات السياق ، هو حالة إصطفاف إجتماعي عريض ونادر التكرار ، بعد إتفاق أديس أبابا 1972 وإتفاق الخرطوم 1997 ، لأول مرة في تاريخ السودان […] The post سِجن فُندقي في إنتظار مسرح الحرب : مأزق تحالُف بورتسودان المُسلّح بين غياب الفاعلية وسيناريوهات التصدُع (1-3) appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "3e65b4642e5332e54a58fab6691bb679bf4153a094c22fdd435a9d475d480900",
+      "title": "سياسة “نتفليكس”: حين تصبح المآسي مسلسلات إثارة",
+      "url": "https://sudanile.com/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d9%86%d8%aa%d9%81%d9%84%d9%8a%d9%83%d8%b3-%d8%ad%d9%8a%d9%86-%d8%aa%d8%b5%d8%a8%d8%ad-%d8%a7%d9%84%d9%85%d8%a2%d8%b3%d9%8a-%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7/",
+      "published_at": "2026-10-20T09:54:03+00:00",
+      "summary": "تعودنا أن نتساءل، بشيء من البلادة الممزوجة بالدهشة، أمام شاشات التلفاز وحواسيبنا حين تباغتنا صور الحروب المندلعة، والمجاعات التي تنهش أجساد الأطفال، وطوابير النزوح الطويلة: أين الإنسانية؟ وكيف لعالمٍ بأسره أن يقف متفرجاً بلا حراك؟ لكن الحقيقة الأكثر مرارة، والتي نتجاهل الاعتراف بها عمداً لكي لا يصيبنا الجنون، هي أننا لم نعد نتفرج بندم أو […] The post سياسة “نتفليكس”: حين تصبح المآسي مسلسلات إثارة appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "cc752229b299a998ed38f33f8b87a3705ca738c19c336ee05d19d3baa834a071",
+      "title": "العاقبة لشباب قيم السماء",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%b9%d8%a7%d9%82%d8%a8%d8%a9-%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d9%82%d9%8a%d9%85-%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1/",
+      "published_at": "2026-10-20T09:51:38+00:00",
+      "summary": "ليست كل الهزائم هزائم، وليست كل الانتصارات انتصارات. هناك حقائق يكشفها الزمن مهما طال التزييف، وحقيقة السودان اليوم أن الصراع لم يكن يوماً بين إسلام وعلمانية بقدر ما كان بين قيم السماء العادلة، وبين من استخدموا تلك القيم سلعة، ومن حاربوها علناً. لقد ارتكب قادة التيار الإسلامي الذين لم يتحرروا يوماً من عباءة العشائرية والقبلية […] The post العاقبة لشباب قيم السماء appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "330d0ce48f84e97650cc9dae89f460153ec4a1030ae02a520c968f349754882b",
+      "title": "انتصار المرأة السودانية… في رواية «حصار الغزالة واو»",
+      "url": "https://sudanile.com/%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%a3%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%ad%d8%b5%d8%a7/",
+      "published_at": "2026-10-20T09:49:55+00:00",
+      "summary": "بقلم: هشام الحلوحين يتصدع الكيان الأبستمولوجي للوطن، وتتحول الجغرافيا من كونها حاضنةً للذاكرة إلى مجرد مسرحٍ عبثي لتناسخ العنف، يفقد التاريخ صوته العالي، ويتحول السرد إلى ما يشبه التشريح الباثولوجي للروح السودانية. هذا ما تنجزه ببراعة مذهلة رواية «حصار الغزالة واو» للروائي مهند رجب الدابي، المتوجة باستحقاق رفيع بجائزة كتارا للرواية العربية (2026)، إذ لا […] The post انتصار المرأة السودانية… في رواية «حصار الغزالة واو» appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "f8c28290ec210918d3fe29ef3986d3af2fe326efebe0a9f3d3ffdd4c420db6a2",
+      "title": "قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة",
+      "url": "https://sudanile.com/%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a7%d9%84%d8%b3%d9%84%d9%88%d9%83-%d8%a7%d9%84%d9%88%d8%b8%d9%8a%d9%81%d9%8a-%d9%88%d8%a3%d8%ae%d9%84%d8%a7%d9%82%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%88%d8%b8%d9%8a/",
+      "published_at": "2026-10-20T09:48:41+00:00",
+      "summary": "قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامةProfessional Work Ethicsد. محمد حمدان عيسى، المنطقة الشرقية، السعودية الأخلاق هي مجموعة من القواعد والمبادئ التي تحدد السلوك الصحيح والسلوك الخاطئ. وتُبيّن ما هو جيد وصحيح، أو ما هو سيئ وخاطئويمكن تعريف أخلاقيات العمل بأنها مجموعة من المبادئ والقيم -سواء كانت مكتوبة أو غير مكتوبة- التي تحكم القرارات والتصرفات داخل […] The post قواعد السلوك الوظيفي وأخلاقيات الوظيفة العامة appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "60832ef7e6230a87066b93ce95eab8d682751f8a33d03babdc99bf22153817bf",
+      "title": "«السباق نحو فشودة» لديفيد ليفرن لويس، قراءةٌ سودانية",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%b3%d8%a8%d8%a7%d9%82-%d9%86%d8%ad%d9%88-%d9%81%d8%b4%d9%88%d8%af%d8%a9-%d9%84%d8%af%d9%8a%d9%81%d9%8a%d8%af-%d9%84%d9%8a%d9%81%d8%b1%d9%86-%d9%84%d9%88%d9%8a%d8%b3%d8%8c/",
+      "published_at": "2026-10-20T09:46:17+00:00",
+      "summary": "«السباق نحو فشودة» لديفيد ليفرن لويس، قراءةٌ سودانيةالسودانُ مِضمارًا لا مُتسابِقًا، من الخليفة عبد الله إلى الحكم الثنائيد. الرشيد خليفةفي العاشر من يوليو 1898، بلغ نفرٌ من الفرنسيين، نحوُ مئةٍ وخمسين رجلًا جُلُّهم من الرماة السنغاليين يقودهم النقيب جان-باتيست مارشان، حصنًا مصريًّا مهجورًا على الضفة الغربية لنهر النيل الأبيض، في بلدة فشودة (كودوك اليوم) [1]. […] The post «السباق نحو فشودة» لديفيد ليفرن لويس، قراءةٌ سودانية appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "ac4fdc8d043d22d84d7e1211bff331580900478b5a90b332e1bc9d913b63679f",
+      "title": "الأزمة السودانية وأسباب سقوط الأنظمة الديمقراطية!",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a%d8%a9-%d9%88%d8%a3%d8%b3%d8%a8%d8%a7%d8%a8-%d8%b3%d9%82%d9%88%d8%b7-%d8%a7%d9%84%d8%a3%d9%86%d8%b8%d9%85%d8%a9/",
+      "published_at": "2026-10-20T09:44:30+00:00",
+      "summary": "مناظير الثلاثاء 20 أكتوبر، 2026زهير السرَّاجmanazzeer@yahoo.com ونحن على أعتاب الذكرى 62 لثورة أكتوبر المجيدة:الأزمة السودانية وأسباب سقوط الأنظمة الديمقراطية!من 1955 إلى حرب أبريل 2023: إخفاق الانتقال الديمقراطي وأزمة بناء الدولة مقدمة: 1- الاستقلال ومشاكل تأسيس الدولة 2- الديمقراطية الأولى وانقلاب نوفمبر 1958 3- ثورة أكتوبر 1964 وعودة الديمقراطية 4- انقلاب مايو 1969 ونظام نميري 5- […] The post الأزمة السودانية وأسباب سقوط الأنظمة الديمقراطية! appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "72f638d828c753ea7aeb6dcbde4d8964e2a8a2457def83f9a6fc998a29737d2c",
+      "title": "اثر استمرار نهب الذهب على السيادة الوطنية",
+      "url": "https://sudanile.com/%d8%a7%d8%ab%d8%b1-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-%d9%86%d9%87%d8%a8-%d8%a7%d9%84%d8%b0%d9%87%d8%a8-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d9%88%d8%b7/",
+      "published_at": "2026-10-20T09:42:43+00:00",
+      "summary": "بقلم : تاج السر عثمان١أشرنا سابقا إلى تكرار هجوم الطيران المصري على المعدنين السودانيين الذي مس السيادة الوطنية ‘ وحقوق المواطنة والمدنيين’ والإدانة الواسعة التي وجدها. علما بأن حادثة قصف الطيران المصري المعدنين السودانيين في المناطق الحدودية السودانية (مثل منطقة جبل العقيدات وشمال الوادي) ترتبط بصراع مصالح اقتصادي وأمني محتدم حول الثروات الطبيعية، بهدف نهب […] The post اثر استمرار نهب الذهب على السيادة الوطنية appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "05f2d3ea715fc59bb6cb28763f5ec6b7e13c50d1b9fbdf28941ad31f63a8a2f2",
+      "title": "مسيّرات",
+      "url": "https://sudanile.com/%d9%85%d8%b3%d9%8a%d9%91%d8%b1%d8%a7%d8%aa/",
+      "published_at": "2026-10-20T09:41:05+00:00",
+      "summary": "الجريدة هذا الصباح..هذه التطورات الأمنية ، التي تتزامن مع عمليات العودة الطوعية ودعوات المواطنين لها، تسحب عن العاصمة غطاء الأمن الذي تتغنى به الحكومة، وتعيدها إلى مربع المخاوف، فالبرهان يجب ان يعطي الضمانات لمن هم بالخارج للمشاركة في الحوارام للذين بالداخل ؟!أطيافصباح محمد الحسنمسيّراتطيف أول:كم من صدعٍ استفاق في أغنية أو كلمة كان صداها يعمر […] The post مسيّرات appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "2604b2b9157700b45428ee7a4ef4c0be661b2bb57228028ce4636e805cad521f",
+      "title": "عادل الباز وسفاه الشيخ الذي لا حلم بعده!",
+      "url": "https://sudanile.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%a8%d8%a7%d8%b2-%d9%88%d8%b3%d9%81%d8%a7%d9%87-%d8%a7%d9%84%d8%b4%d9%8a%d8%ae-%d8%a7%d9%84%d8%b0%d9%8a-%d9%84%d8%a7-%d8%ad%d9%84%d9%85-%d8%a8%d8%b9%d8%af%d9%87/",
+      "published_at": "2026-10-20T09:39:30+00:00",
+      "summary": "رشا عوضان من أبرز مساوئ الدفاع عن الباطل انه يهبط بالقدرات الذهنية للمدافعين عنه! فيصبح سقوطهم شاملا متكاملا:سقوط على مستوى الموقف السياسي، وعلى مستوى لغة الحوار واسلوبه واخلاقياته.من الطبيعي جدا ان يتصدى الاستاذ عادل الباز للدفاع عن حركته الاسلامية اسما الاجرامية فعلا ، وان يهاجم خصومها، ولكن المتوقع منه وهو من ” شيوخ” الصحافة الكيزانية […] The post عادل الباز وسفاه الشيخ الذي لا حلم بعده! appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "c481cec91a6f44f7181450d7c5668a02f3731d1a7827c504409c4c87e32d68fd",
+      "title": "مقطع شعري من ديوان : المشي على الحبل المشدود",
+      "url": "https://sudanile.com/%d9%85%d9%82%d8%b7%d8%b9-%d8%b4%d8%b9%d8%b1%d9%8a-%d9%85%d9%86-%d8%af%d9%8a%d9%88%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%b4%d9%8a-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ad%d8%a8%d9%84-%d8%a7%d9%84%d9%85/",
+      "published_at": "2026-10-20T09:38:13+00:00",
+      "summary": "فضيلي جماع علميني المشي فوق الماء والرقص على الحبل، وقبض الريح .. حتى أتقن التجديف فالطوفان آت ! واعذريني ربما أطمح .. في خاتمة اللعبة أن.. أسرِجَ فَلْوَ الرِّيحِ ، كي أهديك نجماً.. ظل من عليائه يدنو وينأى ثم أهديك مع النجم بديع الأغنيات وأهازيج الأطفال تنادوا.. رُغْمَ سَيْفِ القَهْرِ والجُوعِ تنادوا.. ليغنوا تحت ضوء […] The post مقطع شعري من ديوان : المشي على الحبل المشدود appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "e6e114d1c7657d02ff4ffc28b3eb195290940993bbc26db07bde7aa08611b454",
+      "title": "الثقافة والبناء التحتي: من نقد الحتمية الاقتصادية إلى تفكيك «دولة ٥٦» في السودان",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d8%a9-%d9%88%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d9%84%d8%aa%d8%ad%d8%aa%d9%8a-%d9%85%d9%86-%d9%86%d9%82%d8%af-%d8%a7%d9%84%d8%ad%d8%aa%d9%85%d9%8a%d8%a9/",
+      "published_at": "2026-10-20T09:36:49+00:00",
+      "summary": "تقوم إحدى الإشكاليات الأساسية في بعض القراءات الماركسية اللينينية على النظر إلى الثقافة بوصفها جزءاً من البناء الفوقي التابع للبناء التحتي، أي علاقات الإنتاج والبنية الاقتصادية. وحتى عندما يُقرّ أصحاب هذا التصور بوجود قدر من المرونة في العلاقة بين البناءين، فإنهم غالباً ما يحتفظون بالاقتصاد باعتباره العامل الحاسم الذي يمكن ردّ الظواهر الثقافية إليه في […] The post الثقافة والبناء التحتي: من نقد الحتمية الاقتصادية إلى تفكيك «دولة ٥٦» في السودان appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "66e2d81b20f2bc17fd86aedc32d45ba256348ceeb9b64e0d2db82d6bdc721a65",
+      "title": "سوق أميت تحت نيران المسيّرات: من يحمي المدنيين من امتداد الحرب السودانية؟",
+      "url": "https://sudanile.com/%d8%b3%d9%88%d9%82-%d8%a3%d9%85%d9%8a%d8%aa-%d8%aa%d8%ad%d8%aa-%d9%86%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d9%91%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d9%8a%d8%ad%d9%85%d9%8a-%d8%a7%d9%84/",
+      "published_at": "2026-10-20T09:35:01+00:00",
+      "summary": "بقلم: لوال كوال لوال الاثنين، 19 أكتوبر 2026 لم يكن رواد سوق أميت صباح اليوم الاثنين يتوقعون أن ينتهي يومهم بمأساة. ذهب بعضهم لشراء احتياجات أسرهم، وفتح آخرون متاجرهم بحثاً عن الرزق، فيما جاء العمال والتجار لممارسة أعمالهم المعتادة. كانت الحياة تسير كما تسير في أي سوق، إلى أن جاء الهجوم بالطائرة المسيّرة المنسوب إلى […] The post سوق أميت تحت نيران المسيّرات: من يحمي المدنيين من امتداد الحرب السودانية؟ appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "7efdae6a828cfeacb51f422f70ea6e996b9b444a64396be1dd00791700919f0a",
+      "title": "العدالة الاجتماعية ومقاومة السلطوية والصراع على الدولة في عالم تتسع فيه المظالم",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d9%88%d9%85%d9%82%d8%a7%d9%88%d9%85%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%88%d9%8a%d8%a9/",
+      "published_at": "2026-10-20T09:32:07+00:00",
+      "summary": "محمد المحجوبما الذي يجمع بين الاحتجاجات الاجتماعية في فرنسا، وحركة «No Kings» في الولايات المتحدة، والسودان الذي يعيش حرباً مدمرة وانهياراً اقتصادياً واجتماعياً؟ رغم اختلاف السياقات، تطرح التجارب الثلاث أسئلة مشتركة حول العدالة الاجتماعية، وحدود السلطة، ودور الدولة في حماية المواطنين، وعلاقة الحقوق الاقتصادية بالديمقراطية والمساءلة. يضيف السودان إلى هذه المقارنة تجربة ثورة ديسمبر 2018، […] The post العدالة الاجتماعية ومقاومة السلطوية والصراع على الدولة في عالم تتسع فيه المظالم appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "f3c2475401af8743f0281194442b2de4732d3590e617056992b2b16c90896e3a",
+      "title": "مؤسسة الموت",
+      "url": "https://sudanile.com/%d9%85%d8%a4%d8%b3%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d9%88%d8%aa/",
+      "published_at": "2026-10-20T09:30:26+00:00",
+      "summary": "توصل الانسان الي( تقنيات ذات) عديدةلاستنساخ روحه من خلال الابناءالبعث بعد الممات ودخول الجنةفكرة فيثاغورث (تقريبا) عن تدويرالروح بين الكائناتوهناك تقنيات الالم المبرح ، تقودالي تمنيات الموت ، مثل من يطالبونبالموت الرحيم..قد يعتقد انسانانه كائن متعالي لايموت او يقللمن شأن الموت بسبب نفس الفكرةوهناك من يقبل علي الموت من اجلمبدأ يؤمن به او يفضل الموتعلي […] The post مؤسسة الموت appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "813060890901f048040a2728fcba7e9257760327fe75618d75a7a0d4bf60d919",
+      "title": "فَاطْنَة السَّمْحَة وأحاجي من وسط السودان- 19",
+      "url": "https://sudanile.com/%d9%81%d9%8e%d8%a7%d8%b7%d9%92%d9%86%d9%8e%d8%a9-%d8%a7%d9%84%d8%b3%d9%8e%d9%91%d9%85%d9%92%d8%ad%d9%8e%d8%a9-%d9%88%d8%a3%d8%ad%d8%a7%d8%ac%d9%8a-%d9%85%d9%86-%d9%88%d8%b3%d8%b7-%d8%a7%d9%84%d8%b3-3/",
+      "published_at": "2026-10-20T09:27:20+00:00",
+      "summary": "الخَادِم جَوْهَرترويها مَيْ زُمراويحرَّرها عَادِل سِيد أَحمد كان ملك البلاد حكيماً وعنده معرفة، وكان متفوقاً على رصفائه في الممالك المجاورة. وكان الناس يلجؤون إليه طلباً لنصحه وحكمته.كان في يوم من الأيام جاءته امرأةٌ عجوز اسمها نعيمة، وكانت نعيمة ترمي الودع لتقرأ البخت للناس، وتريهم حظوظهم وتتنبأ لهم بالمستقبل. فلقبها الناس بالساحرة وتهموها بالشعوذة، وحاربوها فصاروا […] The post فَاطْنَة السَّمْحَة وأحاجي من وسط السودان- 19 appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "ac7155bb6cd5ca146e202d24d90a240a6ec37b745c5fecae4cb5b443b235a26e",
+      "title": "كبسولات في عين العاصفة : رسالة رقم [352]",
+      "url": "https://sudanile.com/%d9%83%d8%a8%d8%b3%d9%88%d9%84%d8%a7%d8%aa-%d9%81%d9%8a-%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%81%d8%a9-%d8%b1%d8%b3%d8%a7%d9%84%d8%a9-%d8%b1%d9%82%d9%85-352/",
+      "published_at": "2026-10-20T09:25:22+00:00",
+      "summary": "بقلم / عمر الحويج كبسولة : رقم [1] المستنير الفنان والسلطة والقونات:في الوطن السودان إذا إلتقت القونة أيًا كان اسمها ورسمها وهي تمتطي !! .” الفارهة عربتها الفارغة عقليتها”وحولها المعجبين والمعجبات يكبرون !! .المستنير الفنان والسلطة والقونات :كان ممكنًا أن تلتقي “أبوعركي البخيت” راجِّـلاً يسألها عملتيها كيف دي !! .ببكل فجور قد يكون ردها إشتغلت […] The post كبسولات في عين العاصفة : رسالة رقم [352] appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "5267cad3ef15cdd9c9d6970da7ef7a5732f0c38178c16601e32448aac7767a99",
+      "title": "احتراق باريس وسقوط أسطورة التحضر",
+      "url": "https://sudanile.com/%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%82-%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d9%88%d8%b3%d9%82%d9%88%d8%b7-%d8%a3%d8%b3%d8%b7%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%b6%d8%b1/",
+      "published_at": "2026-10-20T09:23:10+00:00",
+      "summary": "ضد الانكسارأمل أحمد تبيديمدخلقيل : (إذا غاب العدل أصبحت الفوضى هي اللغة الوحيدة التي تفهمها السلطة) ألاغلبية كانت مبهورة بالديقراطية الغربية ،ان باريس مدينة النور والحضارة وان أوروبا هي القدوة إلتى يجب أن نقتدي بها ،اليوم سقطت كافة الأقنعة و ظهر الوجه الحقيقي في فرنسا، اكثر من ٥٠٠ مظاهرة في يوم واحد طلاب الثانويات يغلقون […] The post احتراق باريس وسقوط أسطورة التحضر appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "97fb813fbb6baeea090338e6d6ee2756c6b1a586811b7512771ded2e347614ac",
+      "title": "نداء إنساني عاجل-معسكر كارياري-تشاد",
+      "url": "https://sudanile.com/%d9%86%d8%af%d8%a7%d8%a1-%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a-%d8%b9%d8%a7%d8%ac%d9%84-%d9%85%d8%b9%d8%b3%d9%83%d8%b1-%d9%83%d8%a7%d8%b1%d9%8a%d8%a7%d8%b1%d9%8a-%d8%aa%d8%b4%d8%a7%d8%af/",
+      "published_at": "2026-10-20T09:21:59+00:00",
+      "summary": "بقلم/موسى بشرى محمود-18/10/26 يعيش معسكر كارياري أحد أكبر معسكرات اللجؤ الكبيرة بالشقيقة تشاد حالة من الأزمة الإنسانية الحادة نتيجة لنقص الإحتياجات الإنسانية التي يحتاجها مقيمي المعسكر ومن بينها أزمة تأخر إفتتاح المدارس بموعدها المضروب في سبتمبر من كل عام لمواصلة العملية التعليمية التي توقفت لعده أسباب من بينها:- ▪️ أضرار ناتجة بسبب الأمطار الغزيرة والرياح.▪️نقص […] The post نداء إنساني عاجل-معسكر كارياري-تشاد appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "indirect",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "deb0d3a1ecb8d23a3af926d8e88672d1a03649dbbf883d8445bb05c02eca3ca5",
+      "title": "ماذا تريد الإمارات العربية المتحدة في السودان؟",
+      "url": "https://sudanile.com/%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9-%d9%81%d9%8a/",
+      "published_at": "2026-10-20T09:19:25+00:00",
+      "summary": "ماذا تريد الإمارات العربية المتحدة في السودان؟ من شبكات الذهب والأسلحة والمرتزقة إلى إطالة الحرب وتقويض السيادة وإعادة تشكيل مستقبل الدولة السودانية د. عبد المنعم مختارأستاذ جامعي في مجال الصحة العامةالمدير العام للشركة الألمانية-السودانية للبحوث والاستشارات وبناء القدراتالمدير التنفيذي لمركز السياسات القائمة على الأدلة والبياناتmoniem.mukhtar@gmail.com الملخص تتمثل أهداف دولة الإمارات العربية المتحدة في السودان في […] The post ماذا تريد الإمارات العربية المتحدة في السودان؟ appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "d4b23816786a1d2c079f813c05f1a10dd223c944ba843b5d7c86de1e4dc83a81",
+      "title": "من الهواء إلى رغيف الخبز",
+      "url": "https://sudanile.com/%d9%85%d9%86-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%a1-%d8%a5%d9%84%d9%89-%d8%b1%d8%ba%d9%8a%d9%81-%d8%a7%d9%84%d8%ae%d8%a8%d8%b2/",
+      "published_at": "2026-10-20T09:16:16+00:00",
+      "summary": "منبر نور: مقالات من بطون كتب ونبض الواقع من الهواء إلى رغيف الخبز كيف غيّرت كيمياء النيتروجين اقتصاد الغذاء والصناعة؟قراءة في كتاب توماس هيغر «كيمياء الهواء» مدخل:ماذا لو كان جزء من غذائنا يبدأ من الهواء؟ حين يشتري المزارع جوال سماد، قد لا يخطر بباله أن وراء هذا الجوال قصةً علمية وصناعية امتدت لأكثر من قرن، […] The post من الهواء إلى رغيف الخبز appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "opinion_analysis",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "85152d755c9f83f8070c98ca15336ee397fad5b6fa23daa5e34a559233db9e36",
+      "title": "المجهول .. (قصة قصيرة )",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d9%85%d8%ac%d9%87%d9%88%d9%84-%d9%82%d8%b5%d8%a9-%d9%82%d8%b5%d9%8a%d8%b1%d8%a9/",
+      "published_at": "2026-10-20T09:13:06+00:00",
+      "summary": "محمد عبد المنعم صالح يمضي وحيدًا فوق ذلك الطريق الضيّق، بينما يمتدّ أمامه كائنٌ هائل لا يعرف إن كان جزءًا من هذا العالم، أم بقايا عالمٍ انتهى قبل أن يولد البشر.. لا يبدو أنّه خائف، لكنّنا لا نعرف ما الذي دفعه إلى المضيّ نحو شيءٍ يفوقه حجمًا، ولا ما الذي ينتظره في نهاية ذلك الطريق. […] The post المجهول .. (قصة قصيرة ) appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "04b3abbb30c98c368cc0d118d01ef4e13deaf4e62e4305c086b8f592cb68741c",
+      "title": "جنوب السودان يعلن مقتل العشرات وإصابة آخرين في هجوم بمسيرات على سوق بمنطقة أبيي المتنازع عليها ويتهم الجيش السوداني بتنفيذه",
+      "url": "https://sudanile.com/%d8%ac%d9%86%d9%88%d8%a8-%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86-%d9%8a%d8%b9%d9%84%d9%86-%d9%85%d9%82%d8%aa%d9%84-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9/",
+      "published_at": "2026-10-20T09:10:42+00:00",
+      "summary": "قال يوحنا أكول نجور وزير الإعلام المكلف في منطقة أبيي المتنازع عليها على الحدود بين السودان وجنوب السودان ​إن ما لا يقل عن 73 شخصا لقوا حتفهم أمس ‌الاثنين إثر استهداف طائرات مسيرة لسوق في المنطقة، واتهم الجيش السوداني بتنفيذ الهجوم. ولم يقدم الوزير أدلة تدعم اتهامه. وأبيي منطقة غنية بالنفط تخضع لإدارة مشتركة بين […] The post جنوب السودان يعلن مقتل العشرات وإصابة آخرين في هجوم بمسيرات على سوق بمنطقة أبيي المتنازع عليها ويتهم الجيش السوداني بتنفيذه appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "bb2283756fce135b373b1da4fbc59f78987a776fab18c76000b73189e1811049",
+      "title": "أكثر من 100 قتيل في هجمات بمسيّرات على كردفان ودارفور والخرطوم",
+      "url": "https://sudanile.com/%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-100-%d9%82%d8%aa%d9%8a%d9%84-%d9%81%d9%8a-%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%a8%d9%85%d8%b3%d9%8a%d9%91%d8%b1%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d9%83%d8%b1%d8%af/",
+      "published_at": "2026-10-20T09:07:48+00:00",
+      "summary": "شهد السودان تصعيدا داميا في هجمات الطائرات المسيّرة منذ مساء الأحد، أسفر عن مقتل أكثر من 100 شخص، بينهم 80 في قصف استهدف تجمعا لمدنيين بولاية غرب كردفان و17 في نيالا بجنوب دارفور، إضافة إلى أربعة قتلى بينهم ثلاثة أطفال في الخرطوم. واتهمت قوات الدعم السريع الجيش بالوقوف وراء هجمات غرب البلاد، فيما اتهم مصدر […] The post أكثر من 100 قتيل في هجمات بمسيّرات على كردفان ودارفور والخرطوم appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "acc81d1201a0fe2736cf05a9c3cfd49606b6f8ff3d32963ea1e25d3361f3010d",
+      "title": "الهلال يرفض تصريحات رئيس الاتحاد",
+      "url": "https://sudanile.com/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d9%8a%d8%b1%d9%81%d8%b6-%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad%d8%a7%d8%aa-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af/",
+      "published_at": "2026-10-20T09:06:07+00:00",
+      "summary": "رفض نادي الهلال عبر المهندس رامي كمال نائب الأمين العام للمجلس تصريحات الدكتور معتصم جعفر رئيس الاتحاد السوداني، والتي حمّل فيها مسؤولية خسارة المنتخب الوطني أمام موزمبيق للهلال. وقال إن التصريحات التي أطلقها الدكتور معتصم مجرد تنصل من المسؤولية، وقال إن الهلال ظل داعماً أساسياً لكافة المنتخبات الوطنية من منطلق مسؤوليته الوطنية، وأشار إلى أن […] The post الهلال يرفض تصريحات رئيس الاتحاد appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "direct",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "54b3f32bfc9cabc740cfd5e0757781fc5184d6fec65d9b2d15ec8457343e6783",
+      "title": "مجلس المريخ يعلن حالة الطوارئ للقاء حوريا الغيني",
+      "url": "https://sudanile.com/%d9%85%d8%ac%d9%84%d8%b3-%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae-%d9%8a%d8%b9%d9%84%d9%86-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d9%84%d9%84%d9%82%d8%a7%d8%a1-%d8%ad%d9%88/",
+      "published_at": "2026-10-20T09:02:07+00:00",
+      "summary": "أعلن مجلس إدارة المريخ حالة الطوارئ وذلك لترتيب اوراق الفريق سريعا عقب خسارته أمام حوريا الغيني، حيث ناقش المجلس الترتيبات المتعلقة بمواجهة الإياب المرتقبة والمقرر إقامتها السبت المقبل حتى يتم إعداد وتجهيز الفريق بأفضل صورة ممكنة قبل اللقاء.إلى ذلك استنفرت رابطة المريخ في كيجالي كل عشاق الفريق بالحضور المبكر عشية السبت المقبل الي ملعب اماهور […] The post مجلس المريخ يعلن حالة الطوارئ للقاء حوريا الغيني appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
+    },
+    {
+      "id": "c03aac4a8d61ce0dfbc61de497f623bc4f6cdc19a607d88fba4e0a50ced74508",
+      "title": "بعثة المريخ تعود إلى كيجالي قادمة من كوناكري",
+      "url": "https://sudanile.com/%d8%a8%d8%b9%d8%ab%d8%a9-%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae-%d8%aa%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%83%d9%8a%d8%ac%d8%a7%d9%84%d9%8a-%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d9%85%d9%86-%d9%83%d9%88/",
+      "published_at": "2026-10-20T09:00:18+00:00",
+      "summary": "وصلت فجر اليوم الثلاثاء بعثة فريق الكرة بنادي المريخ الي العاصمة الرواندية كيجالى أرض الفريق الافتراضية قادمة من العاصمة الغينية كوناكري بعد الخسارة بهدف دون مقابل أمام حوريا الغيني بذهاب دور الـ 32 من دوري أبطال أفريقيا في المباراة التي جمعت عصر الأحد، ومن جانبه أغلق الجهاز الفني بقيادة الصربي دراكو نوفيتش صفحة ملف مباراة […] The post بعثة المريخ تعود إلى كيجالي قادمة من كوناكري appeared first on سودانايل .",
+      "source_feed": "https://sudanile.com/feed",
+      "verification_status": "unverified",
+      "content_type": "uncertain",
+      "relevance_to_sudan": "unclear",
+      "classification_method": "keyword_rules",
+      "freshness_status": "recent",
+      "age_days": 0
     }
   ],
-  "notes": "Collected feed items are unverified claims, not confirmed facts. Repeated publication does not independently verify a claim."
+  "notes": "Items are unverified claims or publications, not confirmed facts. Freshness describes publication age, not accuracy or importance. Repeated publication does not independently verify a claim."
 }
